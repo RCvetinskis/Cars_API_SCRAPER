@@ -5,8 +5,6 @@ require("dotenv").config();
 const carsData = require("../cars.json");
 
 app.get("/api/cars", (req, res) => {
-  res.setHeader("Content-Type", "text/html");
-  res.setHeader("Cache-Control", "s-max-age=1, stale-while-revalidate");
   res.json(carsData);
 });
 
