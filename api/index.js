@@ -5,7 +5,9 @@ require("dotenv").config();
 const carsData = require("../cars.json");
 
 app.get("/api/cars", (req, res) => {
-  res.json(carsData);
+  const carsWithoutModels = carsData.map(({ brand }) => ({ brand }));
+
+  res.json(carsWithoutModels);
 });
 
 app.get("/api/cars/:brand", (req, res) => {
