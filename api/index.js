@@ -4,7 +4,9 @@ require("dotenv").config();
 
 const carsData = require("../cars.json");
 
-app.get("/", (req, res) => {
+app.get("/api/cars", (req, res) => {
+  res.setHeader("Content-Type", "text/html");
+  res.setHeader("Cache-Control", "s-max-age=1, stale-while-revalidate");
   res.json(carsData);
 });
 
@@ -16,6 +18,4 @@ app.get("/api/cars/:brand", (req, res) => {
   res.json(filteredCars);
 });
 
-module.exports = {
-  handler: app,
-};
+module.exports = app;
