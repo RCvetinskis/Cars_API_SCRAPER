@@ -25,3 +25,4 @@ serverless.tsconfig.json
 
 # Output files
 dist/
+.vercel
