@@ -1,11 +1,11 @@
 const express = require("express");
 const app = express();
 require("dotenv").config();
-const port = process.env.PORT || 4000;
+const port = process.env.PORT | 4000;
 
 const carsData = require("../cars.json");
 
-app.get("/api/cars", (req, res) => {
+app.get("/", (req, res) => {
   res.json(carsData);
 });
 
