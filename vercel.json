@@ -1,6 +1,7 @@
 {
     "functions": {
-        "api/index.js": {
+        "api": {
+            "handler": "index.handler",
             "maxDuration": 5,
             "memory": 128
         }
