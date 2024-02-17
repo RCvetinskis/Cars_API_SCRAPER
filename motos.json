@@ -1,0 +1,5699 @@
+[
+  {
+    "brand": "ABM",
+    "models": [
+      "Kitas",
+      "Phantom 125",
+      "Raptor"
+    ]
+  },
+  {
+    "brand": "Access",
+    "models": [
+      "DRR",
+      "Max",
+      "SHADE 650  EPS",
+      "SHADE 650LT",
+      "SHADE 850LT  EPS",
+      "SHADE ATV 650",
+      "SHADE XTREME 650 LT EPS",
+      "SHADE XTREME 850 LT EPS",
+      "SP400",
+      "Tomahawk",
+      "Warrior",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Adler",
+    "models": [
+      "Favorit",
+      "Junior",
+      "MB",
+      "Sprinter",
+      "Ventus",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Adly",
+    "models": [
+      "Air Tec",
+      "AT",
+      "Cat",
+      "Fun Cruiser",
+      "Jet",
+      "Noble",
+      "Panther",
+      "Road Tracer",
+      "Rooster",
+      "Silver Fox",
+      "Super Sonic",
+      "TB",
+      "Thunder Bike",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Aeon",
+    "models": [
+      "Aero",
+      "Argon",
+      "Cobra",
+      "Crossland",
+      "Cube",
+      "Echo",
+      "Goes",
+      "LG",
+      "Mini Kolt",
+      "Newark",
+      "Nox",
+      "Overland",
+      "Pulsar",
+      "Regal",
+      "Revo",
+      "SP",
+      "Stinger",
+      "Super Sport",
+      "Utility",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Aermacchi",
+    "models": [
+      "350 TV",
+      "Ala Verde Sport"
+    ]
+  },
+  {
+    "brand": "AGM",
+    "models": [
+      "City",
+      "Retro"
+    ]
+  },
+  {
+    "brand": "Aixam",
+    "models": [
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "AJP",
+    "models": [
+      "Galp",
+      "PR4",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "AJS",
+    "models": [
+      "M16",
+      "Spring Twin",
+      "Stormer",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Alfer",
+    "models": [
+      "VR"
+    ]
+  },
+  {
+    "brand": "Alpha",
+    "models": [
+      "50cc",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Amazonas",
+    "models": [
+      "1600"
+    ]
+  },
+  {
+    "brand": "American Eagle",
+    "models": [
+      "Falcon MS Cruiser",
+      "Raptor",
+      "Raven",
+      "Street Fighter"
+    ]
+  },
+  {
+    "brand": "APG",
+    "models": [
+      "Adonis",
+      "Fulgur",
+      "Lupus",
+      "Nero",
+      "Papilio",
+      "Papilio s",
+      "Retro",
+      "Roadster"
+    ]
+  },
+  {
+    "brand": "Apollo",
+    "models": [
+      "A36Bw250",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Aprilia",
+    "models": [
+      "AF1",
+      "Amico",
+      "Area",
+      "Arrecife",
+      "Atlantic",
+      "Caponord",
+      "Classic",
+      "Climber",
+      "Dorsoduro",
+      "ETV",
+      "ETX",
+      "Europe",
+      "Falco",
+      "Gulliver",
+      "Habana",
+      "Leonardo",
+      "Mana",
+      "Mini RX",
+      "Mojito",
+      "Moto",
+      "MX",
+      "MXV",
+      "Pegaso",
+      "Rally",
+      "RC",
+      "Red Rose",
+      "RS",
+      "RST",
+      "RSV",
+      "RSW",
+      "RX",
+      "RXV",
+      "Scarabeo",
+      "Shiver",
+      "SL",
+      "SMV",
+      "Sonic",
+      "Sportcity",
+      "SR",
+      "Stealth",
+      "SX",
+      "SXV",
+      "Tuareg",
+      "Tuono",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Arctic Cat",
+    "models": [
+      "1000",
+      "300",
+      "400",
+      "450",
+      "500",
+      "550",
+      "650",
+      "660",
+      "700",
+      "Alterra",
+      "Bearcat",
+      "Cheetah",
+      "Cougar",
+      "Cross Country Cat",
+      "Crossfire",
+      "El Tigre",
+      "EXT",
+      "F series",
+      "Firecat",
+      "Jag",
+      "Jaguar",
+      "King Cat",
+      "Kitty Cat",
+      "Lynx",
+      "M series",
+      "Mountain Cat",
+      "Pantera",
+      "Panther",
+      "Powder Special",
+      "Prowler",
+      "Puma",
+      "Sport Cat",
+      "T660",
+      "Thundercat",
+      "TRV",
+      "Wild Cat",
+      "XC",
+      "XT",
+      "Youth",
+      "Z series",
+      "ZL",
+      "ZR",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Ardie",
+    "models": [
+      "3",
+      "A / B / D",
+      "Arrow",
+      "Colt",
+      "FH",
+      "HT3",
+      "Jubi",
+      "Junior",
+      "Leader",
+      "MB",
+      "NH",
+      "Prinz",
+      "RB",
+      "RZ",
+      "SG",
+      "Silberpfeil",
+      "Special",
+      "Square",
+      "Twin Cyclone",
+      "VB",
+      "VF",
+      "VH",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Argo",
+    "models": [
+      "Avenger 8x8",
+      "Bigfoot 6x6",
+      "Conquest 6x6",
+      "Conquest 8x8",
+      "Response 8x8",
+      "Vanguard 6x6",
+      "Vanguard2 6x6"
+    ]
+  },
+  {
+    "brand": "ATK",
+    "models": [
+      "125",
+      "250",
+      "260",
+      "450",
+      "500",
+      "600",
+      "605",
+      "620",
+      "700"
+    ]
+  },
+  {
+    "brand": "Atlant",
+    "models": [
+      "Dakota",
+      "Sprint",
+      "Zenith"
+    ]
+  },
+  {
+    "brand": "ATM",
+    "models": [
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "ATV",
+    "models": [
+      "125cc",
+      "250cc",
+      "50cc",
+      "Anaconda",
+      "BMW Style",
+      "Cobra",
+      "CRF 50",
+      "CRF 70",
+      "Cross",
+      "Crusade",
+      "Deuauville",
+      "Dirt Bike",
+      "EGL Motor",
+      "Electric MiniMoto",
+      "Electric Racer",
+      "Electric Torino",
+      "ENDURO",
+      "Farmer",
+      "Fighter",
+      "FX",
+      "Hornet",
+      "Hummer",
+      "Hummer II",
+      "Hunter",
+      "Kitas",
+      "KLX Style",
+      "KTM 250cc",
+      "KTM Style",
+      "MAD MAX",
+      "MADDEX",
+      "MADIX",
+      "Mini KLX",
+      "Monkey",
+      "Panther",
+      "Panthera",
+      "Pocket Bike",
+      "Pocket Bike II",
+      "Pocket Bike III",
+      "Pocket Dirt Bike",
+      "Polaris Style",
+      "Quad Bike",
+      "Quad Bike Light",
+      "Quad Bike Light",
+      "Racer",
+      "Racing",
+      "Ranger",
+      "Raptor Style",
+      "S-10",
+      "S-12",
+      "S-14",
+      "S-8",
+      "Shadow",
+      "Shineray",
+      "Speedstar",
+      "Sport",
+      "Tiger",
+      "Torino",
+      "Warrior",
+      "Yeti"
+    ]
+  },
+  {
+    "brand": "ATX",
+    "models": [
+      "Beskid",
+      "Bizon",
+      "Condor",
+      "Dolphin",
+      "Furio",
+      "Milano",
+      "Orzeł",
+      "Red Power",
+      "Roma",
+      "Sharp",
+      "Torino",
+      "Wind",
+      "Żubr",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "AWO",
+    "models": [
+      "425",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Azel",
+    "models": [
+      "250 GS",
+      "Atila 125",
+      "Blackrose 250",
+      "Street Bike 125cc",
+      "Wolf 200"
+    ]
+  },
+  {
+    "brand": "Bajaj",
+    "models": [
+      "Avenger",
+      "BYK",
+      "Caliber",
+      "Chetak",
+      "Classic",
+      "CT",
+      "Discover",
+      "Dominar 400",
+      "Eliminator",
+      "KB",
+      "Kristal",
+      "Platina",
+      "Pulsar",
+      "RTZ",
+      "Spirit",
+      "Super",
+      "SX Enduro",
+      "Wave",
+      "Wind",
+      "XCD",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "BamX",
+    "models": [
+      "BX125",
+      "BX150",
+      "BX200",
+      "BX50",
+      "BX70"
+    ]
+  },
+  {
+    "brand": "Baotian",
+    "models": [
+      "BT49QT",
+      "Citibike",
+      "Eagle",
+      "Evolution",
+      "Falcon",
+      "Monza",
+      "Tanco",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Barossa",
+    "models": [
+      "AL5",
+      "APO",
+      "KHB",
+      "MAM",
+      "Mini",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Barton",
+    "models": [
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Bashan",
+    "models": [
+      "BS110s-7",
+      "BS125-20A",
+      "BS125-7",
+      "BS125s-2",
+      "BS150-2",
+      "BS150s-3g",
+      "BS150s-3h",
+      "BS200GY",
+      "BS200s-4",
+      "BS200s-6a",
+      "BS200s-7",
+      "BS250s-11b",
+      "BS250s-24",
+      "BS250s-30",
+      "BS250s-5",
+      "BS250s-9",
+      "BS300s-18a",
+      "BS300s-a",
+      "BS400s",
+      "BS50s-7",
+      "BS90",
+      "GY 125",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Benelli",
+    "models": [
+      "502 C",
+      "752 S",
+      "Banshee",
+      "BKX",
+      "BN 125",
+      "Buzzer",
+      "BX",
+      "Devil",
+      "Fireball",
+      "Imperiale 400",
+      "Jarno",
+      "K2",
+      "Leoncino",
+      "Leoncino 125",
+      "Leoncino 250",
+      "Leoncino 500",
+      "Leoncino 800",
+      "Leoncino 800 Trail",
+      "LS",
+      "Mojave",
+      "Pepe",
+      "Quattro Nove",
+      "SEI",
+      "Sport",
+      "TNT",
+      "TNT 125",
+      "Tornado",
+      "TRE",
+      "TRE-K",
+      "TRK 251",
+      "TRK 502",
+      "Velvet",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Benzer",
+    "models": [
+      "Colorado",
+      "Dakota",
+      "Daytona",
+      "Florida",
+      "Indiana",
+      "Ohio",
+      "Texas",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Benzhou",
+    "models": [
+      "YY125T-10",
+      "YY125T-19",
+      "YY125T-25",
+      "YY125T-26",
+      "YY125T-3B",
+      "YY125T-5C",
+      "YY125T-6",
+      "YY150-10T",
+      "YY150T-4",
+      "YY150T-6",
+      "YY150T-B",
+      "YY50QT",
+      "YY50QT-11",
+      "YY50QT-15",
+      "YY50QT-2",
+      "YY50QT-22",
+      "YY50QT-3",
+      "YY50QT-5",
+      "YY50QT-6",
+      "YY50QT-8"
+    ]
+  },
+  {
+    "brand": "Beta",
+    "models": [
+      "Aikon",
+      "Alp",
+      "Ark",
+      "ART",
+      "Eikon",
+      "Euro",
+      "Jonathan",
+      "KR",
+      "M4",
+      "Minicross",
+      "Minitrial",
+      "Motard",
+      "Quadra",
+      "REV",
+      "RR",
+      "Supermoto 50",
+      "Synt",
+      "Techno",
+      "TR",
+      "TX",
+      "XT",
+      "Zero",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Bifei",
+    "models": [
+      "BFD",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Big Dog",
+    "models": [
+      "K-9",
+      "Mastiff",
+      "Pitbull",
+      "Ridgeback",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Bimota",
+    "models": [
+      "500",
+      "BB",
+      "DB",
+      "Delirio",
+      "KB",
+      "Mantra",
+      "MGB",
+      "MMB",
+      "SB",
+      "SuperMono",
+      "SuperMono Biposto",
+      "Tesi",
+      "Vdue",
+      "YB",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Blata",
+    "models": [
+      "125",
+      "Elite",
+      "Kitas",
+      "Origami B2"
+    ]
+  },
+  {
+    "brand": "Bluroc",
+    "models": [
+      "Heritage",
+      "Hero",
+      "Hunt XC",
+      "Legend",
+      "Spirit",
+      "Tracker",
+      "V-BOB"
+    ]
+  },
+  {
+    "brand": "BM",
+    "models": [
+      "200",
+      "EAGLE",
+      "FORCE",
+      "V-3",
+      "V-5"
+    ]
+  },
+  {
+    "brand": "BMC Choppers",
+    "models": [
+      "Big Daddy",
+      "Bobber 88",
+      "Hooligan 541"
+    ]
+  },
+  {
+    "brand": "BMW",
+    "models": [
+      "Adventure",
+      "C 600",
+      "C1",
+      "CS",
+      "F",
+      "G",
+      "GS",
+      "HP",
+      "Independent",
+      "K",
+      "LT",
+      "R",
+      "RT",
+      "S",
+      "XR",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Bombardier",
+    "models": [
+      "Gti",
+      "Gtr",
+      "Gts",
+      "Gtx",
+      "Outlander",
+      "Quest",
+      "Rally",
+      "Rxp",
+      "Rxp x rs",
+      "Rxt is",
+      "Rxt rs",
+      "Rxt x rs",
+      "Rxt x rs as",
+      "Sarasota",
+      "Spyder",
+      "Traxter",
+      "Wake",
+      "Xp",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Borile",
+    "models": [
+      "B",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Boss Hoss",
+    "models": [
+      "BHC-3",
+      "BHC-9",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "BPG Werks",
+    "models": [
+      "DTV Shredder"
+    ]
+  },
+  {
+    "brand": "Bravo",
+    "models": [
+      "Kita"
+    ]
+  },
+  {
+    "brand": "BRIXTON",
+    "models": [
+      "Cromwell 1200",
+      "Cromwell 125",
+      "Cromwell 250",
+      "Crossfire 125",
+      "Crossfire 125 LC",
+      "Crossfire 125 XS",
+      "Crossfire 500",
+      "Crossfire 500 X",
+      "Crossfire 500 XC",
+      "Felsberg 125",
+      "Felsberg 125 XC",
+      "Felsberg 250",
+      "Rayburn 125",
+      "Sunray 125"
+    ]
+  },
+  {
+    "brand": "BSA",
+    "models": [
+      "B",
+      "Bantam",
+      "C",
+      "Gold Star",
+      "Goldflash",
+      "GP Victor",
+      "Lightning",
+      "M",
+      "Super Rocket",
+      "Twin Shooting Star",
+      "Victor",
+      "Victor Super Sport",
+      "XB",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Buell",
+    "models": [
+      "1125",
+      "Blast",
+      "CityX Lightning",
+      "Firebolt",
+      "M",
+      "S",
+      "S3",
+      "Thunderbolt",
+      "Ulysses",
+      "White",
+      "X",
+      "XB",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Bultaco",
+    "models": [
+      "Alpina",
+      "Astro",
+      "Frontera",
+      "Lobito",
+      "Matador",
+      "Metralla",
+      "Pursang",
+      "Sherpa",
+      "Streaker",
+      "TSS MK"
+    ]
+  },
+  {
+    "brand": "Cagiva",
+    "models": [
+      "Alazzurra",
+      "Aletta",
+      "Blues",
+      "Canyon",
+      "City",
+      "Cocis",
+      "Cruiser",
+      "Elefant",
+      "Freccia",
+      "GP",
+      "Mito",
+      "Navigator",
+      "Planet",
+      "Prima",
+      "Raptor",
+      "River",
+      "Roadster",
+      "S2",
+      "SST",
+      "Stella",
+      "Super City",
+      "SXT",
+      "T4",
+      "Tamanaco",
+      "W",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Campagna",
+    "models": [
+      "T-Rex",
+      "V13R"
+    ]
+  },
+  {
+    "brand": "Can-Am",
+    "models": [
+      "Commander",
+      "DS",
+      "Maverick",
+      "Outlander",
+      "Outlander Max",
+      "Renegade",
+      "Spyder",
+      "Youth",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Cannondale",
+    "models": [
+      "C",
+      "E",
+      "S",
+      "X"
+    ]
+  },
+  {
+    "brand": "CCM",
+    "models": [
+      "604",
+      "644",
+      "RC 30"
+    ]
+  },
+  {
+    "brand": "CECTEK",
+    "models": [
+      "Estoc",
+      "Gladiator",
+      "Kingcobra",
+      "Kitas",
+      "Quadrift"
+    ]
+  },
+  {
+    "brand": "CFMOTO",
+    "models": [
+      "150NK",
+      "250NK",
+      "300CL-X",
+      "300NK",
+      "400NK",
+      "450SR",
+      "450SR S",
+      "650GT",
+      "650MT",
+      "650NK",
+      "650TR",
+      "700CL-X Adventure",
+      "700CL-X Heritage",
+      "700CL-X Sport",
+      "700MT",
+      "800 Explore",
+      "800MT",
+      "800MT Explorer",
+      "800NK",
+      "850XC",
+      "Allroad",
+      "Blizzer",
+      "C400",
+      "C400 L",
+      "C520-L",
+      "C550",
+      "C550 EPS",
+      "C600",
+      "CF250",
+      "CF500",
+      "CF500A",
+      "CFORCE 1000",
+      "CFORCE 110",
+      "CFORCE 425",
+      "CFORCE 450L",
+      "CFORCE 450s Basic",
+      "CFORCE 520L",
+      "CFORCE 520S",
+      "CFORCE 550",
+      "CFORCE 600",
+      "CFORCE 850XC",
+      "CFORCE EV110",
+      "CFORCE450L BASIC",
+      "CFORCE520L BASIC",
+      "CFORCE625",
+      "CFORCE625 TOURING",
+      "CRUZ",
+      "E-Charm",
+      "E-Jewel",
+      "Engine",
+      "Fashion",
+      "Glory",
+      "Jet Max",
+      "U550",
+      "U8",
+      "UFORCE 1000",
+      "UTV",
+      "V3",
+      "V5",
+      "VTV",
+      "X5",
+      "X6",
+      "X8",
+      "Z550",
+      "Z6",
+      "Z8",
+      "Z950 SPORT",
+      "ZFORCE 1000",
+      "ZFORCE 1000 SPORT",
+      "ZFORCE 800",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Chang Jiang",
+    "models": [
+      "750"
+    ]
+  },
+  {
+    "brand": "City-bike",
+    "models": [
+      "1",
+      "2",
+      "MaxiSport",
+      "Moped",
+      "Retro",
+      "Sport",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Cobra Moto",
+    "models": [
+      "CX 50 BW",
+      "CX 50 jr.",
+      "CX 50 SW",
+      "CX 65"
+    ]
+  },
+  {
+    "brand": "Confederate",
+    "models": [
+      "B120"
+    ]
+  },
+  {
+    "brand": "Cooper",
+    "models": [
+      "CPA-128",
+      "CPA-208",
+      "CPA-209",
+      "CPA-215",
+      "CPA-216",
+      "CPA-219",
+      "CPA-221",
+      "CPA-224",
+      "CPA-228",
+      "CPA-228L",
+      "CPA-231",
+      "CPA-231L",
+      "CPA-KWS14",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "CPI",
+    "models": [
+      "Aragon",
+      "Bingo",
+      "GTR",
+      "GTS",
+      "Hussar",
+      "Oliver",
+      "Popcorn",
+      "Show FB",
+      "SM",
+      "SX",
+      "X-Large",
+      "XS",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "CR&S",
+    "models": [
+      "DUU",
+      "VUN"
+    ]
+  },
+  {
+    "brand": "Crowne",
+    "models": [
+      "Kita"
+    ]
+  },
+  {
+    "brand": "CZ",
+    "models": [
+      "125",
+      "125 Cross",
+      "175",
+      "175 Enduro",
+      "180",
+      "250",
+      "250 Cross",
+      "350",
+      "380",
+      "400",
+      "500",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Daelim",
+    "models": [
+      "Altino",
+      "History",
+      "Liberty",
+      "Message",
+      "NS",
+      "Roadwin",
+      "S-Five",
+      "S2",
+      "S3",
+      "Tapo",
+      "VL",
+      "VS",
+      "VT",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Dafier",
+    "models": [
+      "Kita"
+    ]
+  },
+  {
+    "brand": "Dandy",
+    "models": [
+      "125"
+    ]
+  },
+  {
+    "brand": "Defiant",
+    "models": [
+      "DT-200",
+      "DT-50"
+    ]
+  },
+  {
+    "brand": "Delta",
+    "models": [
+      "50",
+      "72",
+      "Delta",
+      "Ex",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "DemonX",
+    "models": [
+      "DXR",
+      "Minipit",
+      "XLR"
+    ]
+  },
+  {
+    "brand": "Derbi",
+    "models": [
+      "Antorcha",
+      "Atlantis",
+      "Boulevard",
+      "Bullet",
+      "Cross City",
+      "Etx",
+      "FDS",
+      "Fenix",
+      "GP1",
+      "GPR",
+      "GPR Nude",
+      "Hunter",
+      "Manhattan",
+      "Mulhacén",
+      "Mulhacen",
+      "Paddock",
+      "Predator",
+      "Senda",
+      "Stx",
+      "Terra",
+      "TT8",
+      "Vamos G",
+      "Variant",
+      "X-Treme",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Diablo",
+    "models": [
+      "Buggy",
+      "Cobra",
+      "Diablo 200",
+      "Diablo HOM",
+      "FX 150cc",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Dinli",
+    "models": [
+      "Beast",
+      "Centhor",
+      "Cobia",
+      "Diablo",
+      "Diamond Back",
+      "Dino",
+      "DL603",
+      "JP",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Dirtmax",
+    "models": [
+      "DTX1",
+      "DTX2",
+      "DTX3",
+      "DTX4",
+      "DTX5",
+      "DTX9"
+    ]
+  },
+  {
+    "brand": "DKW",
+    "models": [
+      "Ks 200",
+      "Nz",
+      "RT 3",
+      "Sb 500",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "DM Telai",
+    "models": [
+      "Factory R"
+    ]
+  },
+  {
+    "brand": "Dniepr",
+    "models": [
+      "K 650",
+      "K 750",
+      "M-72",
+      "MT-10",
+      "MT-11",
+      "MT-12",
+      "MT-16",
+      "MT-9",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Dodge",
+    "models": [
+      "Tomahawk"
+    ]
+  },
+  {
+    "brand": "Donghai",
+    "models": [
+      "350 F3",
+      "SM 750"
+    ]
+  },
+  {
+    "brand": "Doohan",
+    "models": [
+      "iTango",
+      "iTank",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Dorton",
+    "models": [
+      "XT250-16"
+    ]
+  },
+  {
+    "brand": "Ducar",
+    "models": [
+      "DJ125",
+      "DJ150"
+    ]
+  },
+  {
+    "brand": "Ducati",
+    "models": [
+      "1098",
+      "1198",
+      "1199 Panigale",
+      "160",
+      "200 GT",
+      "250",
+      "350 SS",
+      "400 F3",
+      "450",
+      "500",
+      "600 SS",
+      "620",
+      "696",
+      "748",
+      "749",
+      "750",
+      "848",
+      "851",
+      "860",
+      "888",
+      "900",
+      "906",
+      "907",
+      "916",
+      "955",
+      "996",
+      "998",
+      "999",
+      "Bris 48/1",
+      "Desmo",
+      "Desmosedici",
+      "Diavel",
+      "Ds 1000",
+      "F1",
+      "GT",
+      "Hypermotard",
+      "Mach 1",
+      "Mark 3",
+      "MH 900",
+      "MHR 1000",
+      "Monster",
+      "Multistrada",
+      "Panigale",
+      "Pantah",
+      "Paso 750",
+      "Paso 907",
+      "Radical",
+      "Scrambler",
+      "Sport",
+      "Sport Classic",
+      "SS 1000",
+      "SS 800",
+      "ST2",
+      "ST3",
+      "ST4",
+      "Streetfighter",
+      "Superbike",
+      "Superleggera",
+      "Supersport",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "E.V.A.",
+    "models": [
+      "Track T"
+    ]
+  },
+  {
+    "brand": "Eagle",
+    "models": [
+      "ATV 200",
+      "ATV 250",
+      "Lyda 203C",
+      "Lyda 203E",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "EGL Eglmotor",
+    "models": [
+      "BE-Madix",
+      "E-Bull",
+      "E-CONQUEROR",
+      "E-Eagle",
+      "E-Madix",
+      "E-Sport",
+      "Kitas",
+      "Lyda 200",
+      "Lyrx 300",
+      "Mad Max",
+      "Madix",
+      "MADIX W150",
+      "NC250-1",
+      "NC250-2",
+      "NC450",
+      "UTV150"
+    ]
+  },
+  {
+    "brand": "Electron",
+    "models": [
+      "MS01",
+      "MS02",
+      "MS03"
+    ]
+  },
+  {
+    "brand": "Elegant",
+    "models": [
+      "1500",
+      "200"
+    ]
+  },
+  {
+    "brand": "Enfield",
+    "models": [
+      "Bullet",
+      "Euro",
+      "MIlitary",
+      "Taurus",
+      "Thunderbird",
+      "US"
+    ]
+  },
+  {
+    "brand": "Enticer",
+    "models": [
+      "Kita"
+    ]
+  },
+  {
+    "brand": "Explorer",
+    "models": [
+      "B58"
+    ]
+  },
+  {
+    "brand": "Fabrikat",
+    "models": [
+      "CPI"
+    ]
+  },
+  {
+    "brand": "Factory",
+    "models": [
+      "Chrono",
+      "Desert"
+    ]
+  },
+  {
+    "brand": "Factory Bike",
+    "models": [
+      "Chrone SM",
+      "Chrono SM",
+      "Desert YR"
+    ]
+  },
+  {
+    "brand": "Fantic",
+    "models": [
+      "Cabalerro 50",
+      "TX",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Faspider",
+    "models": [
+      "Arana Club",
+      "F8",
+      "Roma",
+      "Scootworks",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "FB Mondial",
+    "models": [
+      "250 Bialbero",
+      "Flat Track",
+      "HPS 125",
+      "HPS 300",
+      "Imola",
+      "Piega",
+      "RZ",
+      "SMX Enduro",
+      "SMX Motard",
+      "Sport Classic 125",
+      "Sport Classic 300"
+    ]
+  },
+  {
+    "brand": "Ferro",
+    "models": [
+      "101",
+      "121",
+      "123",
+      "301",
+      "302",
+      "303",
+      "601",
+      "602",
+      "603",
+      "604",
+      "605",
+      "606-2",
+      "802",
+      "803",
+      "901",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Fine Custom Mechanics",
+    "models": [
+      "Puncher"
+    ]
+  },
+  {
+    "brand": "Fischer",
+    "models": [
+      "MRX"
+    ]
+  },
+  {
+    "brand": "Flyrite Choppers",
+    "models": [
+      "Bobber",
+      "High Noon",
+      "Outlaws Ruin",
+      "Reach For The Sky",
+      "Scorcher"
+    ]
+  },
+  {
+    "brand": "Forsage",
+    "models": [
+      "50",
+      "PB"
+    ]
+  },
+  {
+    "brand": "Fosti",
+    "models": [
+      "125cc",
+      "150cc",
+      "50cc",
+      "F31"
+    ]
+  },
+  {
+    "brand": "Futong",
+    "models": [
+      "FT100-10"
+    ]
+  },
+  {
+    "brand": "FYM",
+    "models": [
+      "FY 250",
+      "Scooter",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "G max",
+    "models": [
+      "Cruiser 50",
+      "Racer 50"
+    ]
+  },
+  {
+    "brand": "G&G",
+    "models": [
+      "G"
+    ]
+  },
+  {
+    "brand": "Garelli",
+    "models": [
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Gas Gas",
+    "models": [
+      "Delta",
+      "EC",
+      "Halley",
+      "JT",
+      "JTR",
+      "MC",
+      "Pampera",
+      "SM",
+      "Trial",
+      "TXT",
+      "XC",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Gateway",
+    "models": [
+      "R5",
+      "R6",
+      "Rider II",
+      "Spider",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "GB Motors",
+    "models": [
+      "Beast",
+      "Blade",
+      "Cruiser",
+      "Cyclone",
+      "First",
+      "Neox",
+      "Pinacolada",
+      "Razor X",
+      "Rocket",
+      "Spark",
+      "Street",
+      "Thunder",
+      "Tiger Max",
+      "Toxic",
+      "Virus",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Geely",
+    "models": [
+      "Alta",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Generic",
+    "models": [
+      "Cracker",
+      "Ideo",
+      "Tiger",
+      "Trigger",
+      "XOR",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Gilera",
+    "models": [
+      "125 R",
+      "503",
+      "Apache 125",
+      "Cougar",
+      "Crono",
+      "CX",
+      "CX 125",
+      "Dakota 125",
+      "DNA",
+      "Eaglet 50",
+      "Fuoco 500",
+      "GFR 125",
+      "GP 800",
+      "GPR",
+      "GSM",
+      "GTA 125",
+      "Ice 50",
+      "KK",
+      "KZ",
+      "MXR",
+      "Nexus",
+      "Nexus 500",
+      "Nordwest",
+      "R 1",
+      "RC",
+      "RCR",
+      "RK",
+      "Runner",
+      "RX",
+      "Saturno 500",
+      "Sioux",
+      "Smash 110",
+      "SMT",
+      "SP",
+      "Stalker 50",
+      "Typhoon 50",
+      "XR1",
+      "XR2",
+      "YL 150",
+      "Zulu 50",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Goes",
+    "models": [
+      "220",
+      "220 S",
+      "300S",
+      "350 S",
+      "360",
+      "520",
+      "520 Max",
+      "525i",
+      "625",
+      "625 UTX",
+      "625i",
+      "CF X8",
+      "G725IS",
+      "Max"
+    ]
+  },
+  {
+    "brand": "Govecs",
+    "models": [
+      "Go!"
+    ]
+  },
+  {
+    "brand": "GX moto",
+    "models": [
+      "QM"
+    ]
+  },
+  {
+    "brand": "Haojin",
+    "models": [
+      "JH125 E"
+    ]
+  },
+  {
+    "brand": "Harley-Davidson",
+    "models": [
+      "1200",
+      "1340",
+      "883",
+      "Bad Boy",
+      "BREAKOUT",
+      "Cafe Racer",
+      "Custom",
+      "Custom Low Rider",
+      "CVO",
+      "Dyna",
+      "Dyna Glide",
+      "Dyna Low",
+      "Dyna Street Bob",
+      "Dyna Super Glide",
+      "Dyna Wide Glide",
+      "Electra",
+      "Electra Glide",
+      "Evolution Sportster",
+      "Fat Bob",
+      "Fat Boy",
+      "FHXL",
+      "FL Duo Glide",
+      "FL Hydra Glide",
+      "FLH",
+      "FLH Electra Glide",
+      "FLHR",
+      "FLHRC",
+      "FLHRCI",
+      "FLHRSI",
+      "FLHS Electra Glide",
+      "FLHT",
+      "FLHTCUI",
+      "FLHTK",
+      "FLHX",
+      "FLHX Street Glide",
+      "FLS",
+      "FLSTC",
+      "FLSTF",
+      "FLSTFSE Fat Boy CVO",
+      "FLSTN",
+      "FLSTS",
+      "FLSTSB",
+      "FLTR",
+      "FLTRI",
+      "FXCWC",
+      "FXD",
+      "FXDF",
+      "FXDFSE",
+      "FXDFSE Fat Bob Screamin Eagle",
+      "FXDR",
+      "FXDW6",
+      "FXDX",
+      "FXE1200 Shovelhead",
+      "FXSB",
+      "FXST",
+      "FXSTD",
+      "FXSTS",
+      "Glide Special",
+      "Heritage",
+      "Heritage Softail",
+      "Iron 1200",
+      "Iron Eagle",
+      "Low Rider",
+      "Night Train",
+      "Road Glide",
+      "Road King",
+      "Rocker",
+      "Softail",
+      "Sport Glide",
+      "Sportster",
+      "Springer",
+      "SS",
+      "SST",
+      "Street Bob FXDB",
+      "Street Glide FLHX",
+      "Street Rod",
+      "Super Glide",
+      "SX",
+      "SXT",
+      "Tour Glide",
+      "Tri Glide Ultra Classic",
+      "Ultra Classic",
+      "Ultra Glide",
+      "Ultra Limited FLTHTK",
+      "V-Rod",
+      "VRSC",
+      "VRSCA",
+      "VRSCB",
+      "VRSCD",
+      "VRSCF",
+      "WL",
+      "WR",
+      "XG500",
+      "XG750",
+      "XL",
+      "XLCH",
+      "XLH",
+      "XLS",
+      "XLX",
+      "XR",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Hartford",
+    "models": [
+      "HD",
+      "VR",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Hercules",
+    "models": [
+      "K 125",
+      "K 50",
+      "MC",
+      "Prima",
+      "Supra 4 Enduro",
+      "Supra 4 GP",
+      "W 2000",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Hero",
+    "models": [
+      "Puch Winner",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Highland",
+    "models": [
+      "450 MX",
+      "950 V2",
+      "Allroad",
+      "DesertStorm",
+      "Outback",
+      "SuperMotard",
+      "SuperMotard 950"
+    ]
+  },
+  {
+    "brand": "HM",
+    "models": [
+      "CRE",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Honda",
+    "models": [
+      "50cc",
+      "Activa",
+      "Amigo",
+      "ANF",
+      "ATC",
+      "AX",
+      "Bali",
+      "Biz",
+      "BROS",
+      "C",
+      "CA",
+      "CB",
+      "CB1000R",
+      "CB1100",
+      "CB125F",
+      "CB125R",
+      "CB250R",
+      "CB300R",
+      "CB500F",
+      "CB500X",
+      "CB650R",
+      "CBF",
+      "CBR",
+      "CBR1000RR",
+      "CBR600RR",
+      "CBR650R",
+      "CBX",
+      "CBZ",
+      "CD",
+      "CDI",
+      "CF",
+      "CG",
+      "CGL",
+      "CH",
+      "CHF",
+      "Cityfly",
+      "CJ",
+      "CL",
+      "CLR",
+      "CM",
+      "CMX",
+      "CN",
+      "CR",
+      "CRE",
+      "CRF",
+      "CRF1000L Africa Twin",
+      "CRF110F",
+      "CRF125FB",
+      "CRF150RB",
+      "CRF250",
+      "CRF250 RALLY",
+      "CRF250L",
+      "CRF250R",
+      "CRF450L",
+      "CRF450R",
+      "CRF50F",
+      "CRM",
+      "CS",
+      "CT",
+      "CTX",
+      "CX",
+      "CY",
+      "Dio",
+      "DJ1",
+      "DN-01",
+      "Dream",
+      "Dylan",
+      "EC",
+      "Elite",
+      "Enduro",
+      "EX",
+      "Express",
+      "F6",
+      "FES",
+      "FJS",
+      "FMX",
+      "Foreman",
+      "Forza",
+      "Forza 125",
+      "Forza 300",
+      "FourTrax",
+      "Freeway",
+      "FSC",
+      "FSX",
+      "FT",
+      "FTR",
+      "Fusion",
+      "FX",
+      "GB",
+      "GL",
+      "GL1800 GOLD WING TOUR",
+      "GLX",
+      "Goldwing",
+      "Gorilla",
+      "Gyro",
+      "HM",
+      "Hornet",
+      "Innova",
+      "Integra 750",
+      "Lead",
+      "LJ",
+      "LS",
+      "Magna",
+      "MB",
+      "MBX",
+      "MCX",
+      "Monkey 125",
+      "Montesa COTA 300RR",
+      "Montesa COTA 4Ride",
+      "Montesa COTA 4RT 260",
+      "MR",
+      "MSX",
+      "MT",
+      "MTX",
+      "MVX",
+      "NB",
+      "NC",
+      "NC750S",
+      "ND",
+      "NES",
+      "NES125",
+      "Nighthawk",
+      "NM4",
+      "Nova",
+      "NPS",
+      "NQ",
+      "NR",
+      "NRX",
+      "NS",
+      "NSC",
+      "NSF",
+      "NSR",
+      "NSS",
+      "NT",
+      "NTV",
+      "NV",
+      "NX",
+      "NXR",
+      "PA",
+      "Pacific Coast",
+      "Pantheon",
+      "PC",
+      "PCX",
+      "PCX 125",
+      "PES",
+      "PK",
+      "PS",
+      "PX",
+      "PXR",
+      "QA",
+      "QR",
+      "Rancher",
+      "RC",
+      "Rebel",
+      "Reflex",
+      "Rincon",
+      "RS",
+      "RTL",
+      "RVF",
+      "S-Wing",
+      "SCF",
+      "Scrambler",
+      "SCV",
+      "SES",
+      "SFX",
+      "SGX",
+      "SH",
+      "SH125i",
+      "SH300i",
+      "Shadow",
+      "Silver Wing",
+      "SJ",
+      "Sky DX",
+      "SL",
+      "SLR",
+      "SRX",
+      "SS",
+      "ST",
+      "STX",
+      "Super Cub",
+      "Super Cub C125",
+      "SW-T400",
+      "SXR",
+      "SZX 50s",
+      "TA",
+      "TL",
+      "TLR",
+      "TMX",
+      "Transalp",
+      "TRX",
+      "TRX500FA6",
+      "Valkyrie",
+      "Varadero",
+      "VF",
+      "VFR",
+      "VFR800F",
+      "Vigor",
+      "Vision",
+      "Vision 110",
+      "VT",
+      "VTR",
+      "VTX",
+      "VTZ",
+      "Wallaroo",
+      "X-ADV",
+      "X11",
+      "X4",
+      "X8R",
+      "XBR",
+      "XL",
+      "XLR",
+      "XLV",
+      "XR",
+      "XRM",
+      "XRV",
+      "XTV",
+      "Z",
+      "Z50",
+      "ZB",
+      "Zoomer",
+      "ZR",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Honling",
+    "models": [
+      "Boomerang 50"
+    ]
+  },
+  {
+    "brand": "Horex",
+    "models": [
+      "1400 TI",
+      "Columbus",
+      "Imperator"
+    ]
+  },
+  {
+    "brand": "Horwin",
+    "models": [
+      "CR6",
+      "CR6 PRO",
+      "EK1",
+      "EK1 Light",
+      "EK3",
+      "EK3 Delux",
+      "RANGER",
+      "SK1",
+      "SK3",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Hummer",
+    "models": [
+      "altul",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "HUONIAO",
+    "models": [
+      "HN 125-8"
+    ]
+  },
+  {
+    "brand": "Husaberg",
+    "models": [
+      "FC",
+      "FE",
+      "FS",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Husqvarna",
+    "models": [
+      "250",
+      "390 CR",
+      "400",
+      "430 XC",
+      "510 Cross Country",
+      "701 Enduro",
+      "701 Supermoto",
+      "AE",
+      "Automatic 430",
+      "CR",
+      "CR 65",
+      "FC",
+      "FC350",
+      "FE",
+      "FR",
+      "FS",
+      "FX",
+      "Husky Boy",
+      "Husky Nox",
+      "NOX",
+      "Nuda",
+      "SM",
+      "SMR",
+      "SMS",
+      "STR 650 CRC Supermotard",
+      "Svartpilen 401",
+      "Svartpilen 701",
+      "Svartpilen 701 Style",
+      "TC",
+      "TE",
+      "TR 650 Strada",
+      "TR 650 Terra",
+      "TX",
+      "Vitpilen 401",
+      "Vitpilen 701",
+      "WR",
+      "WRE",
+      "WRK",
+      "WSE",
+      "WXE",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Hyosung",
+    "models": [
+      "Cruise II",
+      "GT",
+      "GT Comet",
+      "GV",
+      "Rush",
+      "RX",
+      "SF 50",
+      "Super Cab 50",
+      "XRX",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "IFA",
+    "models": [
+      "BK 350",
+      "RT 125",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Inca",
+    "models": [
+      "Lambros",
+      "Rancor 800",
+      "Spartan",
+      "Sprint Sport",
+      "Street",
+      "Tribe",
+      "Truck 500",
+      "Truck 700",
+      "Wiki",
+      "Yeti 500",
+      "Yeti 700"
+    ]
+  },
+  {
+    "brand": "Indian",
+    "models": [
+      "741",
+      "Chief",
+      "Chief Dark Horse",
+      "Chief Vintage",
+      "Chieftain",
+      "Chieftain Elite",
+      "Dakota",
+      "FTR 1200",
+      "Roadmaster",
+      "Roadmaster Elite",
+      "Scout",
+      "Scout Bobber",
+      "Scout Sixty",
+      "Springfield",
+      "Springfield Dark Horse",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "IRBIS",
+    "models": [
+      "KTA-SN01",
+      "Pluton",
+      "TTR",
+      "Virago"
+    ]
+  },
+  {
+    "brand": "Iron Horse",
+    "models": [
+      "Bandera",
+      "Classic Chop",
+      "Judge",
+      "Slammer",
+      "Texas Chopper"
+    ]
+  },
+  {
+    "brand": "Italjet",
+    "models": [
+      "Baby 50",
+      "Dragster",
+      "Formula",
+      "JC",
+      "Milennium",
+      "MX",
+      "PR",
+      "Torpedo",
+      "Velocifero",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Izh",
+    "models": [
+      "350",
+      "Cornet",
+      "Yunker",
+      "Jupiter",
+      "Planeta",
+      "Planeta Sport",
+      "56",
+      "49",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Jawa",
+    "models": [
+      "1",
+      "125",
+      "175",
+      "175 typ 356",
+      "250",
+      "250 typ 353",
+      "330",
+      "350",
+      "50",
+      "500",
+      "593",
+      "634",
+      "638",
+      "640",
+      "650",
+      "812",
+      "895",
+      "90",
+      "Babetta",
+      "Chopper",
+      "Dakar",
+      "Dandy",
+      "Enduro Sport",
+      "Mustang 50",
+      "Pioner",
+      "Robby",
+      "Stella",
+      "T",
+      "TS 350",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Jawa CZ",
+    "models": [
+      "125",
+      "175",
+      "180",
+      "250"
+    ]
+  },
+  {
+    "brand": "Jialing",
+    "models": [
+      "JH125-33"
+    ]
+  },
+  {
+    "brand": "Jianshe Yamaha",
+    "models": [
+      "50PY",
+      "90",
+      "JS200GY"
+    ]
+  },
+  {
+    "brand": "Jincheng",
+    "models": [
+      "JC 125-17B",
+      "JC 50",
+      "Knight",
+      "Wild Cat",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Jinlun",
+    "models": [
+      "JL"
+    ]
+  },
+  {
+    "brand": "JMC",
+    "models": [
+      "1250",
+      "60"
+    ]
+  },
+  {
+    "brand": "Johnny Pag",
+    "models": [
+      "Barhog",
+      "Elite",
+      "FX-3",
+      "Police Escort",
+      "ProStreet",
+      "Raptor",
+      "Spyder"
+    ]
+  },
+  {
+    "brand": "Jonway",
+    "models": [
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Journeyman",
+    "models": [
+      "Gladiator",
+      "Stormer",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "JTG",
+    "models": [
+      "Enduro",
+      "Trial"
+    ]
+  },
+  {
+    "brand": "Junak",
+    "models": [
+      "121",
+      "122",
+      "122 RS",
+      "122 Sport",
+      "123",
+      "650 NK",
+      "650 TR",
+      "901",
+      "901 RS",
+      "901 Sport",
+      "902",
+      "903",
+      "B20",
+      "Jetmax 250",
+      "M",
+      "Millenium",
+      "Qumpel",
+      "S200",
+      "S250",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Kandi",
+    "models": [
+      "MDL 200 AUG",
+      "MDL 250",
+      "MDL GA009-3"
+    ]
+  },
+  {
+    "brand": "Kangda",
+    "models": [
+      "Qingqi QM 125 GY",
+      "ZS 125"
+    ]
+  },
+  {
+    "brand": "Kanuni",
+    "models": [
+      "Cheetah",
+      "Seyhan",
+      "Tiger",
+      "Tigrina"
+    ]
+  },
+  {
+    "brand": "Karpat",
+    "models": [
+      "2",
+      "Karpat",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Kawasaki",
+    "models": [
+      "1000 GTR",
+      "75 MT",
+      "A1",
+      "A7",
+      "AE",
+      "AR",
+      "AR50",
+      "Balius",
+      "BN",
+      "Brute Force",
+      "Concours",
+      "Concours 14 ABS",
+      "CSR",
+      "D-Tracker",
+      "EL",
+      "Eliminator",
+      "EN",
+      "ER",
+      "Estrella",
+      "EX",
+      "F",
+      "F11",
+      "FX",
+      "G5",
+      "GPX",
+      "GPZ",
+      "GT",
+      "GTO",
+      "GTR",
+      "H1",
+      "H2",
+      "J",
+      "K1",
+      "KA",
+      "Kazer",
+      "KC",
+      "KD",
+      "KDX",
+      "KE",
+      "KEF",
+      "KFX",
+      "KH",
+      "KL",
+      "KLE",
+      "KLF",
+      "KLR",
+      "KLR 650",
+      "KLV",
+      "KLX",
+      "KLX 110",
+      "KLX 140",
+      "KLX 250",
+      "KM",
+      "KMX",
+      "KR",
+      "KS",
+      "KT",
+      "KV",
+      "KVF",
+      "KX",
+      "KX 100",
+      "KX 250",
+      "KX 450",
+      "KX 65",
+      "KX 85",
+      "KXF",
+      "KXT",
+      "KZ",
+      "LTD",
+      "MCI 90",
+      "Mule",
+      "Ninja 1000",
+      "Ninja 250R",
+      "Ninja 300",
+      "Ninja 400",
+      "Ninja 650",
+      "Ninja H2",
+      "Ninja H2 R",
+      "Ninja H2 SX",
+      "Ninja ZX-10R",
+      "Ninja ZX-14R",
+      "Ninja ZX-6R",
+      "Prairie",
+      "Spectre",
+      "Super Sherpa",
+      "Tengai",
+      "Versys",
+      "Versys 1000 LT",
+      "Versys 650",
+      "Versys X 300",
+      "VN",
+      "Voyager",
+      "Vulcan",
+      "Vulcan 1700 Vaquero ABS",
+      "Vulcan 1700 Voyager ABS",
+      "Vulcan 900",
+      "Vulcan S",
+      "W",
+      "W800",
+      "Z",
+      "Z1",
+      "Z125 PRO",
+      "Z1R",
+      "Z400 ABS",
+      "Z650",
+      "Z900",
+      "Z900RS ABS",
+      "Zephyr",
+      "ZG",
+      "ZL",
+      "ZR",
+      "ZRX",
+      "ZX",
+      "ZX-10",
+      "ZX-9R",
+      "ZXR",
+      "ZZR",
+      "ZZR600",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Kaxa Motos",
+    "models": [
+      "KXP"
+    ]
+  },
+  {
+    "brand": "Kayo",
+    "models": [
+      "A150",
+      "A180",
+      "AT110",
+      "AT125",
+      "AU150",
+      "AU200",
+      "AY70",
+      "eA50",
+      "eKMB",
+      "KMB",
+      "TT125",
+      "TT140",
+      "TT190R"
+    ]
+  },
+  {
+    "brand": "Keeway",
+    "models": [
+      "Arn",
+      "ATV",
+      "ATV Dragon",
+      "Cityblade",
+      "Cruiser",
+      "Ezi-plus",
+      "F-act/Fact-NKD",
+      "Fact Evo",
+      "Flash",
+      "Focus",
+      "Goccia",
+      "Hacker",
+      "Hurricane",
+      "Klight",
+      "Matrix",
+      "Mini ATV",
+      "Outlook",
+      "Pixel",
+      "RKF",
+      "RKR",
+      "RKS",
+      "Ry-8",
+      "Speed",
+      "Superlight",
+      "Supershadow",
+      "Swan",
+      "TX",
+      "TX Enduro",
+      "Venus",
+      "Versilia",
+      "Vieste",
+      "Viva",
+      "X-ray",
+      "Zahara",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Kentoya",
+    "models": [
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Kespor",
+    "models": [
+      "altul",
+      "SL50QT-8",
+      "TS50QT-4",
+      "TS50QT-8",
+      "XTR 50"
+    ]
+  },
+  {
+    "brand": "Kingway",
+    "models": [
+      "150",
+      "250MR",
+      "500",
+      "70",
+      "Alien",
+      "Alpinus",
+      "Apollo",
+      "Arrow",
+      "ATV 70",
+      "Barracuda",
+      "Black Horse",
+      "Camaro",
+      "CAT",
+      "Cereno",
+      "Challenger",
+      "Chinaboy",
+      "Cobra",
+      "Coliber",
+      "Commander",
+      "Condor",
+      "Corvette",
+      "Cross",
+      "CUB",
+      "Dinli",
+      "Dominator",
+      "El Passo",
+      "Euroboy",
+      "Eurostar",
+      "Falcon",
+      "Fennari",
+      "Fonero",
+      "Forever",
+      "FOX",
+      "Gallus",
+      "Guliver",
+      "Hassan",
+      "Hooligan",
+      "Hummer",
+      "Ibis",
+      "Jinlun",
+      "Johnatan",
+      "Jonathon",
+      "Jumper",
+      "King",
+      "Koyot",
+      "Lander",
+      "Linhai",
+      "Martinelli",
+      "Mini",
+      "Monster",
+      "Mosquito",
+      "Naked",
+      "Navigator",
+      "Paulo",
+      "Poster",
+      "Purga",
+      "Quattro",
+      "Qurier",
+      "Rocky",
+      "Shark",
+      "Spider",
+      "Sport",
+      "Street",
+      "Swift",
+      "Tanco",
+      "Terminator",
+      "Tiggero",
+      "Tommy",
+      "Touran",
+      "Traper",
+      "UFO",
+      "Varadero",
+      "Yarox",
+      "Yuxin",
+      "Zibo",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Kinlon Motors",
+    "models": [
+      "JL125",
+      "JL150",
+      "JL200",
+      "JL200GY"
+    ]
+  },
+  {
+    "brand": "Kinroad",
+    "models": [
+      "Hunter",
+      "Sahara",
+      "Wind Hunter",
+      "XT",
+      "Łoś",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "KMT MOTORS",
+    "models": [
+      "GT300",
+      "GT320",
+      "GT500",
+      "GT600",
+      "IQ100",
+      "IQ120",
+      "IQ130",
+      "Q300",
+      "Q320",
+      "RS300",
+      "RS310",
+      "RS330",
+      "RS500",
+      "RS500 T3b",
+      "X110R",
+      "X125R",
+      "X250R",
+      "X50R"
+    ]
+  },
+  {
+    "brand": "Komar",
+    "models": [
+      "50",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "KOVE",
+    "models": [
+      "450 Rally",
+      "800 Rally",
+      "800X",
+      "MX250",
+      "MX450"
+    ]
+  },
+  {
+    "brand": "Kramit",
+    "models": [
+      "250 Enduro"
+    ]
+  },
+  {
+    "brand": "Kreidler",
+    "models": [
+      "Enduro",
+      "Kitas",
+      "Mustang",
+      "Supermotard"
+    ]
+  },
+  {
+    "brand": "KSR",
+    "models": [
+      "Code 125"
+    ]
+  },
+  {
+    "brand": "KTM",
+    "models": [
+      "1190 RC8",
+      "1190 RC8 R",
+      "Adventure",
+      "Adventure S",
+      "Duke",
+      "Duke R",
+      "Enduro",
+      "Enduro R",
+      "EXC",
+      "EXC-F",
+      "EXC-R",
+      "EXE",
+      "Foxi GT",
+      "Freeride",
+      "GO",
+      "GS",
+      "LC",
+      "LC4",
+      "LC4 Adventure",
+      "LC4 EGS",
+      "LC4 Enduro",
+      "LC4 Rally",
+      "LC4 Supercomp",
+      "LC4 Supermoto",
+      "LC4 XC",
+      "LC8",
+      "MC",
+      "MX",
+      "MXC",
+      "RC",
+      "RC 8",
+      "SC",
+      "SMC",
+      "SMC",
+      "SMR",
+      "Sting",
+      "Super Adventure",
+      "Super Duke",
+      "Super Duke R",
+      "Super Enduro",
+      "Super Enduro R",
+      "Supermoto",
+      "Supermoto R",
+      "SX",
+      "SX",
+      "SX ATV",
+      "SX-F",
+      "SXC",
+      "XC",
+      "XC ATV",
+      "XC-F",
+      "XC-W",
+      "XCF-W",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Kymco",
+    "models": [
+      "Activ",
+      "Agility",
+      "AGILITY 125i",
+      "AGILITY 50",
+      "Agility City A/C",
+      "AK550",
+      "Bet & Win",
+      "Calypso",
+      "Caro",
+      "Cherry",
+      "City",
+      "CK",
+      "Cobra Cross",
+      "Cobra Racer",
+      "Cruiser",
+      "Dink",
+      "Dink/Yager",
+      "DJ",
+      "DJ50",
+      "Downtown",
+      "DOWNTOWN 350i",
+      "Ego",
+      "Espresso",
+      "Fever",
+      "Filly",
+      "Grand Dink",
+      "Grand King",
+      "Hipster",
+      "K-Pipe",
+      "KCP",
+      "KR",
+      "KTR/KCR",
+      "KXR",
+      "Like",
+      "Maxxer",
+      "Miler",
+      "Mongoose KXR",
+      "Movie XL",
+      "MXer",
+      "MXU",
+      "MXU 550i",
+      "MXU 700i",
+      "New Dink",
+      "Nexxon",
+      "People",
+      "Pulsar",
+      "Pulsar Luxe",
+      "Pulsar/CK",
+      "Quannon/KR Sport",
+      "RF",
+      "Sooner",
+      "Spacer",
+      "Spike",
+      "Stryker",
+      "Super",
+      "Super 8",
+      "Super 9 A/C",
+      "Super 9 L/C",
+      "Top Boy",
+      "UXV",
+      "Venox",
+      "Vitality",
+      "Vivio",
+      "X-TOWN",
+      "Xciting",
+      "XCITING 400i",
+      "Yager GT",
+      "Yup",
+      "Zing",
+      "ZX",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Lambretta",
+    "models": [
+      "D",
+      "G350",
+      "LI",
+      "SX",
+      "TV",
+      "V125",
+      "V200",
+      "V50",
+      "X300",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Lantana",
+    "models": [
+      "Nevada",
+      "Road"
+    ]
+  },
+  {
+    "brand": "Lascari",
+    "models": [
+      "BMW Style",
+      "Cross Bike",
+      "Delta 10",
+      "Dirt Bike",
+      "Hummer",
+      "Panthera",
+      "Quad Bike",
+      "Racer",
+      "Racing",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Laverda",
+    "models": [
+      "3CE",
+      "3CL",
+      "650",
+      "668",
+      "750",
+      "Atlas",
+      "Jota",
+      "LAV",
+      "LZ",
+      "SF1",
+      "SFC",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Legend",
+    "models": [
+      "XY400GY"
+    ]
+  },
+  {
+    "brand": "Lexmoto",
+    "models": [
+      "Street125"
+    ]
+  },
+  {
+    "brand": "Lifan",
+    "models": [
+      "European",
+      "Hawk",
+      "Kahuna",
+      "LF",
+      "LH300",
+      "Retro",
+      "Rocket",
+      "SG",
+      "V-Twin",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Lingben",
+    "models": [
+      "LB50"
+    ]
+  },
+  {
+    "brand": "Linhai",
+    "models": [
+      "260",
+      "300",
+      "420 PROMAX",
+      "500 PROMAX EFI",
+      "ATV",
+      "ATV 500",
+      "ATV 570 PROMAX",
+      "E-ATV ELECTRIC",
+      "Goon",
+      "M 150",
+      "M150 2x4",
+      "M210",
+      "M550 EFI 4X4 AR",
+      "M550L EPS EFI 4X4 AR",
+      "M565L EPS",
+      "M570I L EPS",
+      "Mainstreet",
+      "Monarch",
+      "Muddy",
+      "Prince",
+      "Scooter",
+      "T-BOSS 520",
+      "T-BOSS 550",
+      "Tornado",
+      "UTV 1100 D EPS",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Linhai Yamaha",
+    "models": [
+      "200SE",
+      "300SE ATV",
+      "400S",
+      "550EFI",
+      "700 ATV",
+      "80 Sport",
+      "Bighorn"
+    ]
+  },
+  {
+    "brand": "LML",
+    "models": [
+      "151 - 4T",
+      "50",
+      "Star 125 - 2T",
+      "Star 150 - 2T",
+      "Star 200 - 4T"
+    ]
+  },
+  {
+    "brand": "Loncin",
+    "models": [
+      "Tracker",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Longjia",
+    "models": [
+      "LJ125-A1",
+      "LJ125-B",
+      "LJ125-C",
+      "LJ125-D",
+      "LJ125-E",
+      "LJ125-F",
+      "LJ125-G",
+      "LJ125-K",
+      "LJ125-L",
+      "LJ150-A",
+      "LJ150-D",
+      "LJ150-T",
+      "LJ250",
+      "LJ250-2"
+    ]
+  },
+  {
+    "brand": "Lucky Star",
+    "models": [
+      "BR",
+      "SP"
+    ]
+  },
+  {
+    "brand": "Magni",
+    "models": [
+      "Australia"
+    ]
+  },
+  {
+    "brand": "Maico",
+    "models": [
+      "250",
+      "320",
+      "380",
+      "500",
+      "620",
+      "685"
+    ]
+  },
+  {
+    "brand": "Malaguti",
+    "models": [
+      "Calvacone",
+      "Drakon",
+      "Drakon 125",
+      "Dune 125",
+      "Dune 125 X",
+      "Dune X",
+      "F12",
+      "F15",
+      "Grizzly",
+      "Madison",
+      "Madison 125",
+      "Mission 125",
+      "Mission 200",
+      "MRX",
+      "Spectre GP 125",
+      "Warrior",
+      "XAM-E",
+      "XSM",
+      "XSM 125",
+      "XTM 125",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Malanca",
+    "models": [
+      "125 E",
+      "125 M",
+      "125 Mark"
+    ]
+  },
+  {
+    "brand": "Masai",
+    "models": [
+      "A",
+      "D",
+      "Drift",
+      "K",
+      "L",
+      "Ultimate",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Mash",
+    "models": [
+      "Adventure 400",
+      "Adventure 400 standart",
+      "Black Seven",
+      "Cafe Racer",
+      "Dirt Track",
+      "Falcone",
+      "Family Side",
+      "Fifty",
+      "Five Hundred",
+      "Scrambler 125",
+      "Scrambler 400",
+      "Seventy",
+      "Seventy five",
+      "Seventy five vintage",
+      "Six Hundred Classic",
+      "Starbird",
+      "Two fifty",
+      "Two fifty 250 red",
+      "Van dutch",
+      "X-Ride"
+    ]
+  },
+  {
+    "brand": "Matchless",
+    "models": [
+      "G-80"
+    ]
+  },
+  {
+    "brand": "MBK",
+    "models": [
+      "altul",
+      "Booster",
+      "Cityliner",
+      "Flame X",
+      "Kitas",
+      "MachG",
+      "Nitro",
+      "Oceo",
+      "Ovetto",
+      "Skycruiser",
+      "Waap",
+      "X-Over",
+      "X-Power"
+    ]
+  },
+  {
+    "brand": "MBS",
+    "models": [
+      "656"
+    ]
+  },
+  {
+    "brand": "Metrakit",
+    "models": [
+      "MKX 50 Pro Bigfoot"
+    ]
+  },
+  {
+    "brand": "Midual",
+    "models": [
+      "Roadster"
+    ]
+  },
+  {
+    "brand": "Mikilon",
+    "models": [
+      "D10",
+      "D42",
+      "D52"
+    ]
+  },
+  {
+    "brand": "Minsk",
+    "models": [
+      "12",
+      "13",
+      "Lyder",
+      "Pionier",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "MM",
+    "models": [
+      "VZ 3"
+    ]
+  },
+  {
+    "brand": "MM3",
+    "models": [
+      "M1A"
+    ]
+  },
+  {
+    "brand": "Mondo Motors",
+    "models": [
+      "Baxter 500",
+      "Big Box",
+      "Brightstar",
+      "Dragon",
+      "Hiray",
+      "Matador",
+      "Proton",
+      "Quad Tytan",
+      "Raider 500",
+      "Storm",
+      "Strict",
+      "Yester",
+      "Z500"
+    ]
+  },
+  {
+    "brand": "Montesa",
+    "models": [
+      "Cota 315 R"
+    ]
+  },
+  {
+    "brand": "Mosca",
+    "models": [
+      "Capri",
+      "Caramella",
+      "Elegante",
+      "Fava",
+      "Grande",
+      "Rapido",
+      "Viva",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Moser",
+    "models": [
+      "CRE 50"
+    ]
+  },
+  {
+    "brand": "Moto Guzzi",
+    "models": [
+      "1000 SP",
+      "1200",
+      "750 Strada",
+      "850",
+      "Airone 250 Sport",
+      "Bellagio",
+      "Breva",
+      "California",
+      "Centauro Sport",
+      "Daytona",
+      "EV Californian",
+      "Griso",
+      "Le Mans",
+      "Lodola Sport",
+      "MGS-01 Corsa",
+      "Monza",
+      "Nevada",
+      "Norge",
+      "NTX 650",
+      "Sport 1100",
+      "Stelvio",
+      "Stone",
+      "V11",
+      "V7",
+      "V85",
+      "V9",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Moto Magnus",
+    "models": [
+      "Capro",
+      "Carave",
+      "Classico",
+      "Grande",
+      "Ibizzo",
+      "Jolly",
+      "Rapido",
+      "Retro",
+      "Solatio",
+      "T-Rex",
+      "Veniro",
+      "Verso",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Moto Morini",
+    "models": [
+      "3.5 Sport",
+      "500 Strada",
+      "Camel 500",
+      "Dart 400",
+      "Excalibur 350",
+      "Montana GS4 50",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Motobi",
+    "models": [
+      "Orlik",
+      "Puma",
+      "Rocky",
+      "Sowa",
+      "Spider",
+      "Sprint",
+      "Wilga",
+      "Żbik",
+      "Zip Star",
+      "Łoś",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Motolevo",
+    "models": [
+      "125"
+    ]
+  },
+  {
+    "brand": "Motomar",
+    "models": [
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Motor hispania",
+    "models": [
+      "Arena",
+      "Bogga",
+      "Furia",
+      "MH7",
+      "NKR",
+      "NKZ",
+      "Revenge",
+      "RX",
+      "RX50",
+      "RYZ",
+      "Vince",
+      "WYN"
+    ]
+  },
+  {
+    "brand": "Motorro",
+    "models": [
+      "Cesar",
+      "City Hopper",
+      "Desire",
+      "Polly",
+      "Tria",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Mototrans",
+    "models": [
+      "350 Vento"
+    ]
+  },
+  {
+    "brand": "Motowell",
+    "models": [
+      "Kid",
+      "Magnet",
+      "Retrosa",
+      "Yoyo",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Motron",
+    "models": [
+      "Breezy 50",
+      "Cubertino",
+      "Ideo 125",
+      "Ideo 50",
+      "Nomad 125",
+      "Revolver 125",
+      "Ventura 125",
+      "Vizion",
+      "Voltz",
+      "Whizz",
+      "X-Nord 125"
+    ]
+  },
+  {
+    "brand": "Mountain Max",
+    "models": [
+      "Kita"
+    ]
+  },
+  {
+    "brand": "MP Korado",
+    "models": [
+      "Admiral",
+      "Adventure",
+      "Cross",
+      "DeLux",
+      "E1",
+      "Klasik",
+      "Mini",
+      "Raptor",
+      "Solana",
+      "Trek",
+      "Via",
+      "Via 125",
+      "Via 2T",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "MTT",
+    "models": [
+      "Y2K"
+    ]
+  },
+  {
+    "brand": "Munch",
+    "models": [
+      "Mammut"
+    ]
+  },
+  {
+    "brand": "Muravej",
+    "models": [
+      "2M",
+      "Muravej",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Mutt",
+    "models": [
+      "Akita",
+      "Fat Sabbath",
+      "FSR",
+      "GT-SS",
+      "Hilts",
+      "Mastiff",
+      "Mongrel",
+      "Razorback",
+      "RS-13"
+    ]
+  },
+  {
+    "brand": "MuZ",
+    "models": [
+      "500 R",
+      "660 Skorpion",
+      "Baghira",
+      "ES",
+      "ETS",
+      "Kobra 850",
+      "Mastiff",
+      "Red Star 500",
+      "Saxon",
+      "Silver Star",
+      "Skorpion",
+      "TS"
+    ]
+  },
+  {
+    "brand": "MV AGUSTA",
+    "models": [
+      "350 Sport Ipotesi",
+      "750S",
+      "Brutale 1000",
+      "Brutale 800",
+      "Brutale America",
+      "Brutale S",
+      "Dragster 800",
+      "F4",
+      "F4 Claudio",
+      "Raptor X",
+      "Superveloce 800",
+      "Turismo Veloce 800",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "MZ",
+    "models": [
+      "1000 SF",
+      "1000S",
+      "125SM",
+      "Baghira",
+      "BK",
+      "ES",
+      "ETS",
+      "ETZ",
+      "ETZ 125 Cross",
+      "Kanuni",
+      "Mastiff 660",
+      "Moskito",
+      "RT",
+      "Saxon Fun 301",
+      "Silverstar 500",
+      "Skorpion",
+      "Skorpion Traveller",
+      "Supa 5",
+      "TS",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "NCR",
+    "models": [
+      "Mike Hailwood TT"
+    ]
+  },
+  {
+    "brand": "Neander",
+    "models": [
+      "Turbo Diesel 1400"
+    ]
+  },
+  {
+    "brand": "NECO",
+    "models": [
+      "Alexone",
+      "Azzuro GP",
+      "Dinno",
+      "GPX 4T",
+      "NC-N01"
+    ]
+  },
+  {
+    "brand": "Neval",
+    "models": [
+      "Planeta",
+      "Sovjet Knight"
+    ]
+  },
+  {
+    "brand": "Nexus",
+    "models": [
+      "G200GS"
+    ]
+  },
+  {
+    "brand": "Nipponia",
+    "models": [
+      "NB 125E"
+    ]
+  },
+  {
+    "brand": "Nitro Motors",
+    "models": [
+      "Anaconda",
+      "Apollo",
+      "Bigfoot",
+      "Buggy",
+      "Cobra",
+      "Dragon",
+      "DS67",
+      "EGL Farmer",
+      "EGL Sport",
+      "EGL Street Hummer",
+      "Hobbit",
+      "Hummer",
+      "Jumper",
+      "Panthera",
+      "PS77",
+      "Python",
+      "Raptor",
+      "SKY",
+      "Speedy",
+      "T-Rex",
+      "Toronto",
+      "Warrior"
+    ]
+  },
+  {
+    "brand": "NIU",
+    "models": [
+      "KQi3 Max",
+      "KQi3 Pro",
+      "KQi3 Pro",
+      "KQi3 Sport",
+      "MQi",
+      "MQi GT",
+      "MQi+ Sport",
+      "NQi",
+      "NQi Cargo",
+      "NQi GT Cargo",
+      "NQi GTS",
+      "NQi Sport",
+      "UQi",
+      "UQi GT",
+      "UQi Sport"
+    ]
+  },
+  {
+    "brand": "Norton",
+    "models": [
+      "Cafe Racer Manx",
+      "Commando",
+      "Dominator",
+      "ES 2",
+      "Manx",
+      "P11 Ranger",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "NSU",
+    "models": [
+      "175",
+      "201",
+      "251",
+      "301",
+      "351",
+      "500",
+      "501",
+      "502",
+      "600",
+      "Quick",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "ODES",
+    "models": [
+      "1000L",
+      "1000S",
+      "650L",
+      "650S",
+      "850L",
+      "850S"
+    ]
+  },
+  {
+    "brand": "Omaks Motors",
+    "models": [
+      "YG200-9"
+    ]
+  },
+  {
+    "brand": "Orange County Choppers",
+    "models": [
+      "Original"
+    ]
+  },
+  {
+    "brand": "Orion",
+    "models": [
+      "100",
+      "125",
+      "Tricycle"
+    ]
+  },
+  {
+    "brand": "Ossa",
+    "models": [
+      "500 Yankee",
+      "E-71"
+    ]
+  },
+  {
+    "brand": "Ovation",
+    "models": [
+      "Kita"
+    ]
+  },
+  {
+    "brand": "Pagsta",
+    "models": [
+      "Roadsta"
+    ]
+  },
+  {
+    "brand": "Panonia",
+    "models": [
+      "P10",
+      "T1",
+      "T5",
+      "T8",
+      "T9",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Patron",
+    "models": [
+      "Aero",
+      "Demon",
+      "Hobo",
+      "Indigo",
+      "King",
+      "Simpler",
+      "Sport 150",
+      "Strike",
+      "Taker 250",
+      "Tribute"
+    ]
+  },
+  {
+    "brand": "Peda",
+    "models": [
+      "Desire",
+      "Eagle",
+      "Maxisport",
+      "Rally",
+      "Shark",
+      "Speedy",
+      "Via Warrior",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Pegasus",
+    "models": [
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Peugeot",
+    "models": [
+      "103 RCX",
+      "103 SPX",
+      "103D",
+      "104",
+      "BB-1C",
+      "Buxy",
+      "Citystar",
+      "Elyseo",
+      "Elystar",
+      "Elystar Advantage",
+      "Geopolis",
+      "Hercules",
+      "Jet C-tech",
+      "Jet Force",
+      "Kisbee",
+      "Looxor",
+      "Ludix",
+      "Ludix 2",
+      "Metropolis",
+      "New Vivacity",
+      "RX 80",
+      "Satelis",
+      "SC",
+      "Snake",
+      "Speed",
+      "Speedake",
+      "Speedfight",
+      "Squab",
+      "ST",
+      "SV",
+      "TKR",
+      "Trekker",
+      "Tweet",
+      "V-Clic",
+      "Vivacity",
+      "Vogue",
+      "WRC 206",
+      "WRC 307",
+      "X-Fight Furious",
+      "Xevo",
+      "XP 50",
+      "XP 6",
+      "XP7",
+      "XPS",
+      "XPS Enduro",
+      "XPS SM",
+      "XR6",
+      "Zenith",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "PGO",
+    "models": [
+      "Big max",
+      "X-rider"
+    ]
+  },
+  {
+    "brand": "Phazer",
+    "models": [
+      "Kita"
+    ]
+  },
+  {
+    "brand": "Piaggio",
+    "models": [
+      "Albatros",
+      "Ape",
+      "Ape 50 Pickup",
+      "Beverly",
+      "Bravo",
+      "Carnaby",
+      "Ciao",
+      "Cosa",
+      "Diesis",
+      "Energy",
+      "ET",
+      "FLY",
+      "Free",
+      "Gran Sport",
+      "Grillo",
+      "GS",
+      "Hexagon",
+      "Liberty",
+      "Medley",
+      "MP-3",
+      "NRG",
+      "NTT",
+      "P",
+      "PK",
+      "PX",
+      "Quartz",
+      "Runner",
+      "Sfera",
+      "SI",
+      "Skipper",
+      "SKR",
+      "Storm",
+      "Super Bravo",
+      "T",
+      "TPH",
+      "Trackmaster",
+      "Typhoon",
+      "Vespa",
+      "x10",
+      "X10",
+      "X7",
+      "X8",
+      "X9",
+      "Xevo",
+      "ZIP",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Pioneer",
+    "models": [
+      "Samurai"
+    ]
+  },
+  {
+    "brand": "Pitmoto",
+    "models": [
+      "LX-50",
+      "LX-801"
+    ]
+  },
+  {
+    "brand": "Pitsterpro",
+    "models": [
+      "LX",
+      "LX5",
+      "LXR",
+      "X2"
+    ]
+  },
+  {
+    "brand": "Polaris",
+    "models": [
+      "50th Anniversary",
+      "550",
+      "600 HO",
+      "Apollo",
+      "Beast",
+      "Centurion",
+      "Charger",
+      "Cobra",
+      "Crossover",
+      "D-Bat",
+      "Deep Snow",
+      "Dragon",
+      "Electra",
+      "Frontier",
+      "FS IQ",
+      "FST",
+      "Fusion",
+      "Galaxy",
+      "Hammer",
+      "Hawkeye",
+      "Indy",
+      "Kingpin",
+      "Magnum",
+      "Mustang",
+      "Outlaw",
+      "Performance",
+      "Phoenix",
+      "Predator",
+      "Ranger",
+      "Ranger 6x6",
+      "Ranger EV",
+      "Ranger RZR",
+      "Ranger RZR S",
+      "Ranger XP",
+      "RMK",
+      "RXL",
+      "Sawtooth Base",
+      "Scrambler",
+      "Sportsman",
+      "Touring Cruiser",
+      "Trail",
+      "Trail Blazer",
+      "Trail Boss",
+      "Two-up Touring",
+      "Vegas",
+      "Wide Trak",
+      "Worker",
+      "X2",
+      "XC",
+      "XLT",
+      "Xpedition",
+      "Xplorer",
+      "Youth",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Polini",
+    "models": [
+      "911 GP4 Reverse"
+    ]
+  },
+  {
+    "brand": "Praga",
+    "models": []
+  },
+  {
+    "brand": "Praga20986",
+    "models": [
+      "CD",
+      "ED",
+      "SM"
+    ]
+  },
+  {
+    "brand": "Puch",
+    "models": [
+      "Alabama",
+      "Cobra",
+      "Condor",
+      "Korrado",
+      "Magnum",
+      "Maxi",
+      "Minicross",
+      "Monza",
+      "MS",
+      "MV",
+      "NRG",
+      "S4",
+      "Sabre",
+      "TL",
+      "VS",
+      "Winners",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Qingqi",
+    "models": [
+      "QM 125T- 10H",
+      "QM 125T- 10V",
+      "QM 50QT- 10A",
+      "QM 50QT- 6",
+      "QM 50QT- B2",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Qinqi",
+    "models": [
+      "B2",
+      "Extreme",
+      "X-star"
+    ]
+  },
+  {
+    "brand": "Quad",
+    "models": [
+      "Cross Bike",
+      "Dirt Bike",
+      "Hummer",
+      "Hummer II",
+      "Light",
+      "Offroad Hummer",
+      "Panthera",
+      "Pocket Bike Racing",
+      "Predator",
+      "Racer",
+      "Street Hummer",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Quadro",
+    "models": [
+      "S350"
+    ]
+  },
+  {
+    "brand": "Rajdoot",
+    "models": [
+      "350"
+    ]
+  },
+  {
+    "brand": "Redline",
+    "models": [
+      "Revolt",
+      "Revolution",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Regal Raptor",
+    "models": [
+      "DD 50",
+      "DD150",
+      "DD250",
+      "DD300"
+    ]
+  },
+  {
+    "brand": "Renly",
+    "models": [
+      "RLGA-5DZ"
+    ]
+  },
+  {
+    "brand": "Rewaco",
+    "models": [
+      "FX1"
+    ]
+  },
+  {
+    "brand": "REX",
+    "models": [
+      "SMC",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Ride",
+    "models": [
+      "Thor"
+    ]
+  },
+  {
+    "brand": "Rieju",
+    "models": [
+      "Marathon",
+      "Marathon Pro",
+      "MR 300 PRO",
+      "MR 300 RANGER",
+      "MR RACING 300",
+      "MRT",
+      "MRT Pro",
+      "MRT Pro SM",
+      "MRT SM",
+      "MRX",
+      "MRX Pro",
+      "MX",
+      "MX Disk",
+      "NKD",
+      "Pacific",
+      "RRX",
+      "RRX Spike",
+      "RS2",
+      "RS2 FR",
+      "RS2 Pro",
+      "RS3",
+      "SMX",
+      "SMX FR",
+      "SMX Pro",
+      "SMX Street",
+      "Tango",
+      "Tango Motard",
+      "Tango Pro",
+      "Tangoo!",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Riga",
+    "models": [
+      "1",
+      "11",
+      "13",
+      "15",
+      "17",
+      "7"
+    ]
+  },
+  {
+    "brand": "ROAR",
+    "models": [
+      "HX500L"
+    ]
+  },
+  {
+    "brand": "Romet",
+    "models": [
+      "707",
+      "717",
+      "727",
+      "737",
+      "747",
+      "767",
+      "777",
+      "787",
+      "797",
+      "ADV 125FI pro",
+      "ATV",
+      "Black City",
+      "C1",
+      "CRS",
+      "CRS FI 125",
+      "Division",
+      "JET",
+      "K",
+      "Ogar 125",
+      "Ogar 50",
+      "Ogar 900",
+      "Pony 125",
+      "Pony 50",
+      "R",
+      "Retro",
+      "RXL",
+      "Safari",
+      "SCMB 125",
+      "Soft Chopper",
+      "Target",
+      "Valentine",
+      "VXL",
+      "White city",
+      "Z",
+      "Z-ONE R",
+      "Z-ONE S",
+      "Z-ONE T",
+      "Zenit",
+      "Zetka",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Roxon",
+    "models": [
+      "P-ONE 10",
+      "P-One 8",
+      "P-One12",
+      "P-One15"
+    ]
+  },
+  {
+    "brand": "Royal Enfield",
+    "models": [
+      "Bullet 350",
+      "Bullet 500",
+      "Classic",
+      "Classic 350",
+      "Classic 500",
+      "Continental GT",
+      "Crusader",
+      "Diesel/Taurus",
+      "Electra",
+      "Electra-X",
+      "Explorer",
+      "Fantabulus",
+      "Fury",
+      "Himalayan",
+      "Interceptor",
+      "Lightning",
+      "Machismo",
+      "Mini Bullet",
+      "Signals 350",
+      "Silver Plus",
+      "Thunderbird",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Ryga",
+    "models": [
+      "1",
+      "11",
+      "16",
+      "22",
+      "26",
+      "7",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Sachs",
+    "models": [
+      "B",
+      "Balboa",
+      "Formula 1",
+      "Jupiter",
+      "Jupiter Safir",
+      "Lotus",
+      "Madass",
+      "Panter",
+      "Roadster",
+      "Ultra RS",
+      "V5 Racing",
+      "X-Road",
+      "XTC Racing",
+      "ZX",
+      "ZZ",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Sagitta",
+    "models": [
+      "CBR150 Spitzer",
+      "SNS 250 Jedi"
+    ]
+  },
+  {
+    "brand": "Samurai",
+    "models": [
+      "Fiery 2000"
+    ]
+  },
+  {
+    "brand": "Sanglas",
+    "models": [
+      "400",
+      "500"
+    ]
+  },
+  {
+    "brand": "Saxon",
+    "models": [
+      "Crown",
+      "Henchman",
+      "Reaper",
+      "Villain",
+      "Warlord"
+    ]
+  },
+  {
+    "brand": "Scootworks",
+    "models": [
+      "Challenge"
+    ]
+  },
+  {
+    "brand": "Scorpa",
+    "models": [
+      "SY",
+      "T-Ride"
+    ]
+  },
+  {
+    "brand": "Sea-Doo",
+    "models": [
+      "Kita"
+    ]
+  },
+  {
+    "brand": "Secma",
+    "models": [
+      "6x4",
+      "Fun buggy",
+      "Fun elec",
+      "Fun extrem",
+      "Fun quad",
+      "Fun runner",
+      "Fun tech"
+    ]
+  },
+  {
+    "brand": "Segway",
+    "models": [
+      "Fugleman",
+      "Snarler AT5 L",
+      "Snarler AT5 S",
+      "Snarler AT6 L",
+      "Snarler AT6 S",
+      "Villain"
+    ]
+  },
+  {
+    "brand": "Senke",
+    "models": [
+      "Kita",
+      "SK150-8"
+    ]
+  },
+  {
+    "brand": "Sherco",
+    "models": [
+      "2T Trials",
+      "4T",
+      "Enduro",
+      "Kid",
+      "SM",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Shineray",
+    "models": [
+      "Extreme",
+      "Lanca",
+      "Roadwin",
+      "XY",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "SHL",
+    "models": [
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Siamoto",
+    "models": [
+      "125",
+      "Geco",
+      "Supermotard"
+    ]
+  },
+  {
+    "brand": "Silence",
+    "models": [
+      "S01",
+      "S01+",
+      "S02",
+      "S03",
+      "S04"
+    ]
+  },
+  {
+    "brand": "Simson",
+    "models": [
+      "Easy 01",
+      "KR",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Ski Doo",
+    "models": [
+      "GSX"
+    ]
+  },
+  {
+    "brand": "Skygo",
+    "models": [
+      "125",
+      "SG200"
+    ]
+  },
+  {
+    "brand": "Skyjet",
+    "models": [
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Skyteam",
+    "models": [
+      "ST"
+    ]
+  },
+  {
+    "brand": "SMC",
+    "models": [
+      "Buzz",
+      "Florett",
+      "Jumbo",
+      "RAM",
+      "Razeer",
+      "Snake",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Sokół",
+    "models": [
+      "1000 M111",
+      "125",
+      "200 M411",
+      "500 M311",
+      "600 M211",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Solo",
+    "models": [
+      "712 Classic"
+    ]
+  },
+  {
+    "brand": "SRV",
+    "models": [
+      "Kita"
+    ]
+  },
+  {
+    "brand": "SRX",
+    "models": [
+      "Kita"
+    ]
+  },
+  {
+    "brand": "Stels",
+    "models": [
+      "400",
+      "Delta",
+      "ERMAK 600L",
+      "ERMAK 600S",
+      "ERMAK 800L",
+      "Flame 200",
+      "GUEPARD  650 TROPHY EFI EPS",
+      "GUEPARD  800G TOURING EFI EPS",
+      "GUEPARD  850G TROPHY EFI EPS",
+      "GUEPARD 650 ST EFI",
+      "GUEPARD 650 TROPHY EFI",
+      "GUEPARD 800G ST EFI",
+      "GUEPARD 800G TOURING EFI EPS",
+      "GUEPARD 800G TROPHY EFI",
+      "GUEPARD 800G TROPHY EFI EPS",
+      "GUEPARD 800G TROPHY PRO EFI",
+      "GUEPARD 800G TROPHY PRO EFI EPS",
+      "GUEPARD 850G TROPHY PRO EFI EPS",
+      "HUGO 110A",
+      "KAPITAN S150",
+      "LEOPARD 500 ST",
+      "LEOPARD 500 YS",
+      "LEOPARD 600 Y",
+      "LEOPARD 600 YL",
+      "LEOPARD 650 YL",
+      "LEOPARD 650 YS",
+      "MOROZ 600L",
+      "MOROZ 600S",
+      "SB 200",
+      "Trigger",
+      "VIKING 600 ST v2.0",
+      "VIKING 600 v2.0",
+      "VIKING 800 v2.0",
+      "VITAZ SA800"
+    ]
+  },
+  {
+    "brand": "Stomp",
+    "models": [
+      "ACE110",
+      "ACE4V",
+      "ACE50",
+      "FXJ-2",
+      "Juicebox3",
+      "KZR140",
+      "MOTARD",
+      "Superstomp",
+      "T4 ENDURO",
+      "Z140"
+    ]
+  },
+  {
+    "brand": "Summit",
+    "models": [
+      "HY",
+      "ZF",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Sunbeam",
+    "models": [
+      "Model 7",
+      "Model 8",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Super SOCO",
+    "models": [
+      "CPx",
+      "CU-X1300",
+      "CUmini",
+      "CUx",
+      "TC",
+      "TC Wandered A1",
+      "TC Wanderer",
+      "TC1500",
+      "TCmax",
+      "TS Hunter",
+      "TS Hunter A1",
+      "TS1200",
+      "TSx"
+    ]
+  },
+  {
+    "brand": "Suzuki",
+    "models": [
+      "A",
+      "AC",
+      "Address",
+      "AP",
+      "AY",
+      "B-King",
+      "Bandit",
+      "Birdie",
+      "Boulevard",
+      "Burgman",
+      "CP",
+      "Crystal",
+      "CS",
+      "Cultus",
+      "CX",
+      "DeLuxe",
+      "DL",
+      "DM",
+      "DR",
+      "DR-Z",
+      "DS",
+      "Eiger",
+      "EN",
+      "Epikuro",
+      "ER",
+      "Escudo",
+      "FA",
+      "FX",
+      "FXR",
+      "FZ",
+      "Gladius",
+      "GN",
+      "GNX",
+      "Goose",
+      "GP",
+      "GR",
+      "GS",
+      "GSF / Bandit",
+      "GSR",
+      "GSV-R",
+      "GSX",
+      "GSX-F / Katana",
+      "GSX-R",
+      "GSX-S",
+      "GT",
+      "GV",
+      "GX",
+      "GZ",
+      "Hayabusa",
+      "HS",
+      "Inazuma",
+      "Intruder",
+      "JR",
+      "K",
+      "Katana",
+      "Kingquad",
+      "Landie",
+      "LC",
+      "Lets",
+      "LS",
+      "LT",
+      "LT-F",
+      "LT-R",
+      "LT-Z",
+      "LTA",
+      "LTR",
+      "LTZ",
+      "Madura",
+      "Marauder",
+      "OR",
+      "Ozark",
+      "Papia FD",
+      "PE",
+      "PV",
+      "Quadsport",
+      "Raider",
+      "RAN",
+      "RE",
+      "RF",
+      "RG",
+      "RGV",
+      "RL",
+      "RM",
+      "RM-Z",
+      "RMX",
+      "RS",
+      "RV",
+      "S",
+      "S1",
+      "Satria",
+      "Savage",
+      "Sepia",
+      "SFV",
+      "Shogun",
+      "Sixteen",
+      "SMX",
+      "SP",
+      "Sprinter",
+      "SV",
+      "SZX",
+      "T",
+      "TC",
+      "TL",
+      "TM",
+      "TR",
+      "TS",
+      "TU",
+      "TwinPeaks",
+      "TXR",
+      "UC",
+      "UE",
+      "UF",
+      "UX",
+      "VanVan",
+      "Vinson",
+      "VL",
+      "VL 1500 Intruder LC / Boulevard C90",
+      "VL 800 Volusia / Boulevard C50",
+      "VLR",
+      "VS",
+      "VX",
+      "VZ",
+      "VZR",
+      "X",
+      "X7",
+      "X9",
+      "XF",
+      "XL650",
+      "XN",
+      "ZR",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "SVM",
+    "models": [
+      "329 Jumbo",
+      "S 3",
+      "XN 506"
+    ]
+  },
+  {
+    "brand": "Swift",
+    "models": [
+      "Drifter",
+      "ESF",
+      "Lil Drifter",
+      "Lucky Strike Soft Tail"
+    ]
+  },
+  {
+    "brand": "SWM",
+    "models": [
+      "Gran Milano",
+      "Gran Turismo",
+      "MC",
+      "RS",
+      "Silver Vase",
+      "SM",
+      "Superdual"
+    ]
+  },
+  {
+    "brand": "SYM",
+    "models": [
+      "Allo",
+      "Attila",
+      "Bonus",
+      "Cello",
+      "Citycom",
+      "Crox",
+      "DD",
+      "Duke",
+      "Euro MX",
+      "Fancy",
+      "Fiddle",
+      "Fighter",
+      "Free",
+      "GR",
+      "GT",
+      "GTS",
+      "HD",
+      "Husky",
+      "Jet",
+      "JetPower",
+      "Joymax",
+      "Joyride",
+      "Jungle",
+      "Lance",
+      "Magic",
+      "Mask",
+      "MaxSym",
+      "Megalo",
+      "MIO",
+      "New Fighter",
+      "Orbit",
+      "Outback",
+      "PCH",
+      "Pure",
+      "QuadLander",
+      "Quadraider",
+      "Radar",
+      "Red Devil",
+      "RS",
+      "RV",
+      "Shark",
+      "Sport Rider",
+      "Super Duke",
+      "Symba",
+      "Symmetry",
+      "Symphony",
+      "Symply",
+      "T1",
+      "T2",
+      "T3",
+      "Track Runner",
+      "VS",
+      "Wolf",
+      "Xpro",
+      "XS",
+      "Z1",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Talaria",
+    "models": [
+      "Sting",
+      "Sting R",
+      "X3 MX"
+    ]
+  },
+  {
+    "brand": "TGB",
+    "models": [
+      "Akros",
+      "ATV425",
+      "BK1",
+      "Blade",
+      "BLADE 1000 LT EPS",
+      "BLADE 1000 LT EPS",
+      "BLADE 1000 LTX  LED EPS",
+      "BLADE 1000 LTX LED EPS",
+      "BLADE 600i LTX 4x4",
+      "Express",
+      "F",
+      "F409",
+      "GFS",
+      "Hawk",
+      "Laser",
+      "Mystique",
+      "Octane",
+      "Orion",
+      "R50X Bullet",
+      "Sienna",
+      "TARGET 600 EPS",
+      "Tryton",
+      "Urban",
+      "Vivo",
+      "Voodoo",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Titan",
+    "models": [
+      "Gecko RM",
+      "Gecko SX",
+      "Roadrunner",
+      "YZF"
+    ]
+  },
+  {
+    "brand": "TM",
+    "models": [
+      "Cross",
+      "Enduro",
+      "SMM",
+      "SMR",
+      "SMX",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "TM Racing",
+    "models": [
+      "E",
+      "EN",
+      "MX",
+      "SMM",
+      "SMR",
+      "SMX"
+    ]
+  },
+  {
+    "brand": "Tomos",
+    "models": [
+      "Standart"
+    ]
+  },
+  {
+    "brand": "Tomoto",
+    "models": [
+      "TM110",
+      "TM150",
+      "TM250"
+    ]
+  },
+  {
+    "brand": "Torrot",
+    "models": [
+      "Motocross One",
+      "Motocross Two",
+      "Supermotard One",
+      "Supermotard Two",
+      "Tial Two",
+      "Trial One"
+    ]
+  },
+  {
+    "brand": "Travertson",
+    "models": [
+      "V-REX"
+    ]
+  },
+  {
+    "brand": "Triton",
+    "models": [
+      "T",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Triumph",
+    "models": [
+      "Adventurer",
+      "America",
+      "Bandit",
+      "Bonneville",
+      "Daytona",
+      "Legend",
+      "Legend TT",
+      "Rocket",
+      "Rocket III",
+      "Scrambler",
+      "Speed Four",
+      "Speed Triple",
+      "Speed Twin",
+      "Speedmaster",
+      "Sprint",
+      "Street Triple",
+      "Super III",
+      "T",
+      "T25T",
+      "Thruxton",
+      "Thunderbird",
+      "Tiger",
+      "Tiger Cub",
+      "TR6R",
+      "Trident",
+      "Trophy",
+      "TT",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Troll",
+    "models": [
+      "Supertwin"
+    ]
+  },
+  {
+    "brand": "Tula",
+    "models": [
+      "T200",
+      "TMZ",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Turist",
+    "models": [
+      "T200M"
+    ]
+  },
+  {
+    "brand": "Ural",
+    "models": [
+      "Custom",
+      "IMZ",
+      "K-750",
+      "M-61",
+      "M-62",
+      "M-63",
+      "M-66",
+      "M-67",
+      "M-72",
+      "Patrol",
+      "Retro",
+      "Tourist",
+      "Wolf",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "V-Max",
+    "models": [
+      "Kita"
+    ]
+  },
+  {
+    "brand": "Valenti",
+    "models": [
+      "N 01 50",
+      "RME 50",
+      "SM 50"
+    ]
+  },
+  {
+    "brand": "Van Veen",
+    "models": [
+      "Apache RTR 160",
+      "OCR 1000"
+    ]
+  },
+  {
+    "brand": "Vario",
+    "models": [
+      "Kita"
+    ]
+  },
+  {
+    "brand": "Vastro",
+    "models": [
+      "ZN50QT"
+    ]
+  },
+  {
+    "brand": "Vectrix",
+    "models": [
+      "VX-1"
+    ]
+  },
+  {
+    "brand": "Vento",
+    "models": [
+      "Gladiator",
+      "Mountrack",
+      "Rebellian",
+      "V-Thunder"
+    ]
+  },
+  {
+    "brand": "Venture",
+    "models": [
+      "Kita"
+    ]
+  },
+  {
+    "brand": "Ventus",
+    "models": [
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Vertemati",
+    "models": [
+      "C450",
+      "C500",
+      "C750",
+      "E450",
+      "E501",
+      "E570",
+      "E750",
+      "S450",
+      "S501",
+      "S570",
+      "SR450",
+      "SR600"
+    ]
+  },
+  {
+    "brand": "Vespa",
+    "models": [
+      "946 10° Anniversario",
+      "Elettrica",
+      "GTS",
+      "GTS Super",
+      "GTV",
+      "Primavera",
+      "Sei Giorni",
+      "Sprint"
+    ]
+  },
+  {
+    "brand": "Viatka",
+    "models": [
+      "Elektron"
+    ]
+  },
+  {
+    "brand": "Victory",
+    "models": [
+      "8-Ball",
+      "Arlen Ness",
+      "Boardwalk",
+      "Classic",
+      "Cory Ness",
+      "Cross Country",
+      "Cross roads",
+      "Gunner",
+      "Hammer",
+      "High-Ball",
+      "Jackpot",
+      "Judge",
+      "Kingpin",
+      "Octane",
+      "Touring Cruiser",
+      "V",
+      "V 92",
+      "Vegas",
+      "Vision",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Viking",
+    "models": [
+      "Kita"
+    ]
+  },
+  {
+    "brand": "Vincent",
+    "models": [
+      "Black Lightning",
+      "Black Shadow",
+      "Comet",
+      "Meteor",
+      "Rapide"
+    ]
+  },
+  {
+    "brand": "Viper",
+    "models": [
+      "ZS50-F"
+    ]
+  },
+  {
+    "brand": "VOGE",
+    "models": [
+      "300 Rally",
+      "300DS",
+      "350AC",
+      "500AC",
+      "500DS",
+      "500R",
+      "525ACX",
+      "525DSX",
+      "650DS",
+      "900DSX",
+      "Brivido",
+      "ER10",
+      "SR125",
+      "SR400"
+    ]
+  },
+  {
+    "brand": "Von Dutch",
+    "models": [
+      "Flying Dutchman",
+      "Killer",
+      "Lowbrow ProCruiser",
+      "Speedball"
+    ]
+  },
+  {
+    "brand": "VOR",
+    "models": [
+      "EN",
+      "MX",
+      "SM",
+      "SME"
+    ]
+  },
+  {
+    "brand": "Voschod",
+    "models": [
+      "2M",
+      "3M",
+      "K-175",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Voxan",
+    "models": [
+      "Black Magic",
+      "Cafe Racer",
+      "Charade Racing",
+      "Roadster",
+      "Scrambler",
+      "Street Scrambler",
+      "V",
+      "V2",
+      "VB1"
+    ]
+  },
+  {
+    "brand": "Vyrus",
+    "models": [
+      "984 ?3",
+      "985 ?3",
+      "987 ?3"
+    ]
+  },
+  {
+    "brand": "Wangye",
+    "models": [
+      "Matrix 50",
+      "Storm 50",
+      "Viper",
+      "Wind 50"
+    ]
+  },
+  {
+    "brand": "WFM",
+    "models": [
+      "M",
+      "Osa",
+      "SHL",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "WSK",
+    "models": [
+      "M06",
+      "M21",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Wuyi Wusheng Electric",
+    "models": [
+      "WV-DB006"
+    ]
+  },
+  {
+    "brand": "X-Moto",
+    "models": [
+      "ostatní",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Xingfu",
+    "models": [
+      "250 A",
+      "XF 125"
+    ]
+  },
+  {
+    "brand": "Xstar",
+    "models": [
+      "Kita"
+    ]
+  },
+  {
+    "brand": "Yamaha",
+    "models": [
+      "Aerox",
+      "AG",
+      "Air Tricker",
+      "Airport",
+      "AT",
+      "ATI",
+      "Autolube",
+      "Axis",
+      "Bear Tracker",
+      "Beluga",
+      "Big Bear Pro",
+      "Bige Bear",
+      "Booster",
+      "Bop",
+      "Boulevard",
+      "Breeze",
+      "Breeze 200cc",
+      "Bruin",
+      "BT",
+      "Bulldog",
+      "BW",
+      "BWS",
+      "CA",
+      "CR",
+      "Crypton",
+      "CS",
+      "CT",
+      "CT1",
+      "Cute",
+      "Cygnus",
+      "D'elight",
+      "Drag Star",
+      "DS",
+      "DT",
+      "EC",
+      "EW",
+      "F1",
+      "FJ",
+      "FJR",
+      "FS1",
+      "FZ",
+      "FZR",
+      "FZS",
+      "FZX",
+      "Giggle",
+      "Grizzly",
+      "GT",
+      "GTS",
+      "HS",
+      "IT",
+      "JOG",
+      "JT",
+      "Kodiak",
+      "L5",
+      "Lagenda",
+      "LB",
+      "LC",
+      "Libero",
+      "Majesty",
+      "Maxim",
+      "Maxster",
+      "MBK",
+      "Midnight Star",
+      "Mio",
+      "Morphous",
+      "MP",
+      "MT",
+      "MX",
+      "Neos",
+      "Niken",
+      "NMAX",
+      "NXC",
+      "Passol",
+      "Phazer",
+      "PW",
+      "R1",
+      "R125",
+      "R3",
+      "R6",
+      "R7",
+      "Radian",
+      "Raider",
+      "Raptor",
+      "Razz",
+      "RD",
+      "Rhino",
+      "Riva",
+      "Road Star",
+      "Royal Star",
+      "RS",
+      "RSX",
+      "RT",
+      "RX",
+      "RXS",
+      "RXZ",
+      "RZ",
+      "SA",
+      "Salient",
+      "Scorpio",
+      "Scrambler",
+      "SDR",
+      "Serow",
+      "SG",
+      "Skyliner",
+      "Slider",
+      "SR",
+      "SRX",
+      "SS TWO",
+      "Stratoliner",
+      "SX",
+      "SXV",
+      "SZR",
+      "TA",
+      "Target",
+      "TDM",
+      "TDR",
+      "Tenere",
+      "Thundercat",
+      "Tiara",
+      "Tmax",
+      "Touch",
+      "Tracer",
+      "Tricity",
+      "Tricker",
+      "TRX",
+      "TT",
+      "TTR",
+      "TW",
+      "TX",
+      "TY",
+      "TZ",
+      "TZM",
+      "TZR",
+      "V",
+      "V Star",
+      "V-MAX",
+      "Vega",
+      "Venture",
+      "Venture Royale",
+      "Versity",
+      "Viking",
+      "Vino",
+      "Virago",
+      "Vity",
+      "VK",
+      "VRR",
+      "Warrior",
+      "Wildstar",
+      "Wolverine",
+      "WR",
+      "X",
+      "X-City",
+      "X-max",
+      "XC",
+      "XCITY",
+      "Xenter",
+      "XJ",
+      "XJR",
+      "XS",
+      "XSR",
+      "XT",
+      "XTX",
+      "XTZ",
+      "XV",
+      "XVS",
+      "XVZ",
+      "XZ",
+      "Yamahopper QT",
+      "YB",
+      "YBR",
+      "YDS",
+      "YFM",
+      "YFS",
+      "YFZ",
+      "YGS",
+      "YP",
+      "YR",
+      "YS",
+      "YSR",
+      "YX",
+      "YXZ",
+      "YZ",
+      "YZF",
+      "YZR",
+      "Z",
+      "Zest",
+      "Zico",
+      "Zipp",
+      "ZR",
+      "Zuma",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Yamasaki",
+    "models": [
+      "FMX",
+      "Scorpion",
+      "YZF"
+    ]
+  },
+  {
+    "brand": "Yangtze",
+    "models": [
+      "750"
+    ]
+  },
+  {
+    "brand": "YCF",
+    "models": []
+  },
+  {
+    "brand": "Yeti 500",
+    "models": [
+      "Kita"
+    ]
+  },
+  {
+    "brand": "Yiben",
+    "models": [
+      "MD150-T",
+      "YB125T-12",
+      "YB125T-23",
+      "YB200",
+      "YB250",
+      "YB50QT-18",
+      "YB50QT-3",
+      "YB50QT-4",
+      "YB50QT-9",
+      "YB50T-23"
+    ]
+  },
+  {
+    "brand": "Yiying",
+    "models": [
+      "YY50QT-5",
+      "YY50QT-6"
+    ]
+  },
+  {
+    "brand": "Yuki",
+    "models": [
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Zeeho",
+    "models": [
+      "AE8S+"
+    ]
+  },
+  {
+    "brand": "Zero",
+    "models": [
+      "DS",
+      "MX",
+      "S",
+      "X",
+      "XU"
+    ]
+  },
+  {
+    "brand": "ZEV",
+    "models": [
+      "10 LRC",
+      "2700 L",
+      "3600 L",
+      "4100",
+      "4100 L",
+      "6000 LA",
+      "6100",
+      "7100",
+      "7100 LR",
+      "T-10 LR",
+      "T-5100",
+      "T-6100",
+      "T-7100"
+    ]
+  },
+  {
+    "brand": "Zforce",
+    "models": []
+  },
+  {
+    "brand": "Zipp",
+    "models": [
+      "125cc",
+      "49cc",
+      "Astec",
+      "Azer",
+      "GP500",
+      "JZW-50",
+      "LaVISSA 125",
+      "Manic",
+      "Manic 125",
+      "Otis",
+      "OTIS plus",
+      "PARCO",
+      "PRO RS 125",
+      "PRO RS50",
+      "Quantum",
+      "Raven",
+      "Raven 125",
+      "Raven LUX 125",
+      "Roadster",
+      "Rooster",
+      "Salmo",
+      "Simpli",
+      "STEED",
+      "TOPS",
+      "Vapor",
+      "Vega",
+      "VZ-1",
+      "VZ-2",
+      "VZ-3",
+      "VZ-50",
+      "ZIPP 125",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "ZNEN",
+    "models": [
+      "ZN125T-15",
+      "ZN125T-15B",
+      "ZN125T-18",
+      "ZN125T-7A",
+      "ZN50QT-15A",
+      "ZN50QT-15D",
+      "ZN50QT-15E",
+      "ZN50QT-8A"
+    ]
+  },
+  {
+    "brand": "Zonda",
+    "models": [
+      "110",
+      "150",
+      "200",
+      "250",
+      "300"
+    ]
+  },
+  {
+    "brand": "Zongshen",
+    "models": [
+      "ZS",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Zontes",
+    "models": [
+      "125G",
+      "125GK",
+      "125M",
+      "125U",
+      "125U1",
+      "350D",
+      "350R"
+    ]
+  },
+  {
+    "brand": "Zumico",
+    "models": [
+      "Aion",
+      "Avatar",
+      "Dynamic",
+      "Eos",
+      "GR1100",
+      "Ignis",
+      "Mac",
+      "ORS 150",
+      "ORS 250",
+      "Quad",
+      "Quick",
+      "Ronin",
+      "Shiva",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Zundapp",
+    "models": [
+      "CS",
+      "Famel XF",
+      "KS",
+      "M25",
+      "Z3",
+      "ZR",
+      "Kitas"
+    ]
+  },
+  {
+    "brand": "Zweirad Union",
+    "models": [
+      "RT"
+    ]
+  },
+  {
+    "brand": "Other",
+    "models": [
+      "Kitas"
+    ]
+  }
+]
